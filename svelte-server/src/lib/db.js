@@ -14,4 +14,17 @@ const pool = new pg.Pool({
 /**
  * Connect to the PostgreSQL database.
  */
-export const connectToDB = async () => await pool.connect();
+
+
+export const makeQuery = async (query, params) => {
+
+    const client = await pool.connect();
+    try {
+        const { rows } = await client.query(query, params);
+        return rows;
+    } catch (error) {
+        console.error(error);
+    } finally {
+        client.release();
+    }
+}

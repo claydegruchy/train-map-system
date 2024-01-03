@@ -14,7 +14,6 @@
         try {
             const response = await fetch(endpoint);
             const data = await response.json();
-            console.log(data); // Output the server response
             return data;
         } catch (error) {
             console.error("Error calling server function:", error);
@@ -26,9 +25,9 @@
             nodes = data;
         });
 
-        callServerFunction("/api/edges").then((data) => {
-            edges = data;
-        });
+        // callServerFunction("/api/edges").then((data) => {
+        //     edges = data;
+        // });
     });
 </script>
 
@@ -40,8 +39,8 @@
             <GraphNode {node} />
         {/each}
 
-        {#each edges as edge}
+        <!-- {#each edges as edge}
             <GraphEdge {edge} />
-        {/each}
+        {/each} -->
     </Graph>
 </body>

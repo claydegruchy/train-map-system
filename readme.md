@@ -14,6 +14,11 @@ in `database/`
 # from backup
 load a backup with `psql -h localhost -U user -d gtfs_database < gtfs_database.backup`
 
+
+# notes
+this should be remade to use `opentripplanner`
+
+# dumping ground
 pg_dump -h localhost -U user -d gtfs_database > gtfs_database.backup
 psql -h localhost -U user -d gtfs_database
 pg_dump
@@ -21,3 +26,23 @@ pg_dump
 pg_dump -h localhost -U user -d gtfs_database > gtfs_database.backup
 
 psql -h localhost -U user -d gtfs_database < gtfs_database.backup
+
+```
+select stop_id from stop_times where trip_id=1001760 limit 10
+
+
+with recursive tree as (
+  select node, parent, length, stop_id as root_id
+  from stop_times
+  where parent is null
+  union all
+  select c.node, c.parent, c.length, p.root_id
+  from network c
+    join tree p on p.node = c.parent
+)
+select root_id, array_agg(node) as edges_in_group, sum(length) as total_length
+from tree
+group by root_id;
+```
+
+select stop_id from stop_times where trip_id=1001760 limit 10
