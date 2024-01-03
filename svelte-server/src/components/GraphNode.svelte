@@ -8,7 +8,6 @@
 
   cyInstance.add({
     group: "nodes",
-    id: node.id,
-    data: { ...node },
+    ...node,
   });
 </script>

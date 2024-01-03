@@ -23,6 +23,7 @@
     onMount(() => {
         callServerFunction("/api/nodes").then((data) => {
             nodes = data;
+            console.log("nodes completed");
         });
 
         // callServerFunction("/api/edges").then((data) => {

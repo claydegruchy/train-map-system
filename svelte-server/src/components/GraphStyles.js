@@ -2,18 +2,19 @@ export default [
   {
     selector: 'node',
     style: {
-      'width': '50',
-      'height': '50',
-      'font-size': '18',
-      'font-weight': 'bold',
-      'content': `data(label)`,
-      'text-valign': 'center',
-      'text-wrap': 'wrap',
-      'text-max-width': '140',
-      'background-color': 'gold',
-      'border-color': 'orange',
-      'border-width': '3',
-      'color': 'darkred'
+      // 'width': '50',
+      // 'height': '50',
+      // 'font-size': '18',
+      // 'font-weight': 'bold',
+      'content': `data(displayName)`,
+      // 'text-valign': 'center',
+      // 'text-wrap': 'wrap',
+      // 'text-max-width': '140',
+      // 'background-color': 'gold',
+      // // 'border-color': 'orange',
+      // 'border-width': '3',
+      'color': 'darkred',
+      'background-clip': 'none',
     }
   },
   {
