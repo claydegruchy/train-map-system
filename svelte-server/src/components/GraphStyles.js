@@ -2,31 +2,49 @@ export default [
   {
     selector: 'node',
     style: {
-      // 'width': '50',
-      // 'height': '50',
+      'width': '20',
+      'height': '20',
       // 'font-size': '18',
       // 'font-weight': 'bold',
-      'content': `data(displayName)`,
+      // 'content': `data(displayName)`,
       // 'text-valign': 'center',
       // 'text-wrap': 'wrap',
       // 'text-max-width': '140',
       // 'background-color': 'gold',
       // // 'border-color': 'orange',
       // 'border-width': '3',
-      'color': 'darkred',
+      // 'color': 'darkred',
       'background-clip': 'none',
     }
   },
   {
-    selector: 'node:selected',
+    selector: 'node.display-details',
     style: {
-      'background-color': 'darkred',
-      color: 'white',
-      'border-color': 'darkred',
-      'line-color': '#0e76ba',
-      'target-arrow-color': '#0e76ba'
+      'width': '10',
+      'height': '10',
+      // 'font-size': '18',
+      // 'font-weight': 'bold',
+      'content': `data(label)`,
+      // 'text-valign': 'center',
+      // 'text-wrap': 'wrap',
+      // 'text-max-width': '140',
+      // 'background-color': 'gold',
+      // // 'border-color': 'orange',
+      // 'border-width': '3',
+      // 'color': 'darkred',
+      'background-clip': 'none',
     }
   },
+  // {
+  //   selector: 'node:selected',
+  //   style: {
+  //     'background-color': 'darkred',
+  //     color: 'white',
+  //     'border-color': 'darkred',
+  //     'line-color': '#0e76ba',
+  //     'target-arrow-color': '#0e76ba'
+  //   }
+  // },
   {
     selector: 'edge',
     style: {

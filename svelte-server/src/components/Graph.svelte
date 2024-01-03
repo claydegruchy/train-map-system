@@ -35,7 +35,7 @@
       style: GraphStyles,
     });
 
-    cyInstance.on("add", () => {
+    cyInstance.on("add", ({ target }) => {
       cyInstance
         .makeLayout({
           name: "preset",
@@ -51,30 +51,25 @@
 
     const debouncedViewportUpdates = debounce((n) => {
       // get the nodes in the current viewport
-      viewportNodes = cyInstance.nodes().filter((node) => {
+
+      const viewportBb = cyInstance.extent();
+      viewportNodes = cyInstance.nodes().forEach((node) => {
         const nodeBb = node.boundingBox();
-        const viewportBb = cyInstance.extent();
-        return (
+        if (
           nodeBb.x1 >= viewportBb.x1 &&
           nodeBb.x2 <= viewportBb.x2 &&
           nodeBb.y1 >= viewportBb.y1 &&
           nodeBb.y2 <= viewportBb.y2
-        );
+        )
+          node.addClass("in-viewport");
+        else node.removeClass("in-viewport");
       });
-      if (viewportNodes.length < 100) {
-        viewportNodes.forEach((node) => {
-          node.data("displayName", node.data("label"));
-        });
+      const niv = cyInstance.nodes(".in-viewport");
+      if (niv.length < 100) {
+        niv.addClass("display-details");
       } else {
-        viewportNodes.forEach((node) => node.data("displayName", ""));
+        niv.removeClass("display-details");
       }
-      console.log("viewport updated", viewportNodes.length);
-
-      //   var layout = cyInstance.layout({
-      //   name: 'random'
-      // });
-
-      // layout.run();
     }, 300);
 
     // when viewport updated

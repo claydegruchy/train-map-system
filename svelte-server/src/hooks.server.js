@@ -21,6 +21,7 @@ const databaseQuery = (async ({ event, resolve }) => {
             id: node.stop_id,
             data: {
                 label: node.stop_name,
+                size: 5,
             },
             position: {
                 x: node.stop_lon * 1000,
