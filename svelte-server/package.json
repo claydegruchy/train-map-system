@@ -20,7 +20,8 @@
 	},
 	"dependencies": {
 		"cytoscape": "^3.28.1",
-		"cytoscape-dagre": "^2.5.0"
+		"cytoscape-dagre": "^2.5.0",
+		"pg": "^8.11.3"
 	},
 	"type": "module"
 }
