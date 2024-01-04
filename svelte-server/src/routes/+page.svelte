@@ -2,7 +2,7 @@
     import "../app.css";
 
     import Graph from "../components/Graph.svelte";
-    import GraphNodes from "../components/GraphNodes.svelte";
+    import GraphNode from "../components/GraphNode.svelte";
     import GraphEdge from "../components/GraphEdge.svelte";
     import { onMount } from "svelte";
 
@@ -21,10 +21,9 @@
     }
 
     onMount(() => {
-        console.log("[+page] called callServerFunction...");
         callServerFunction("/api/nodes").then((data) => {
             nodes = data;
-            console.log("[+page] returned callServerFunction");
+            console.log("nodes completed");
         });
 
         // callServerFunction("/api/edges").then((data) => {
@@ -37,7 +36,9 @@
     <h1>Graph</h1>
 
     <Graph>
-        <GraphNodes {nodes} />
+        {#each nodes as node}
+            <GraphNode {node} />
+        {/each}
 
         <!-- {#each edges as edge}
             <GraphEdge {edge} />
