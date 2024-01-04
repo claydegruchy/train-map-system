@@ -4,8 +4,6 @@
   import dagre from "cytoscape-dagre";
   import GraphStyles from "./GraphStyles.js";
 
-  // generic debounce function
-  // usage: const debouncedFunction = debounce(() => { ... }, 300);
   function debounce(func, timeout = 300) {
     let timer;
     return (...args) => {
@@ -35,7 +33,13 @@
       style: GraphStyles,
     });
 
-    cyInstance.on("add", ({ target }) => {
+    // callServerFunction("/api/nodes").then((data) => {
+    //   nodes = data;
+    //   console.log("[+page] returned callServerFunction");
+    // });
+
+    const debouncedLayoutUpdate = debounce((n) => {
+      console.log("debouncedLayoutUpdate");
       cyInstance
         .makeLayout({
           name: "preset",
@@ -43,9 +47,12 @@
           nodeSep: 150,
         })
         .run();
-    });
+    }, 10);
+
+    cyInstance.on("add", debouncedLayoutUpdate);
 
     cyInstance.ready(() => {
+      cyInstance.elements().remove();
       console.log("cyInstance ready");
     });
 

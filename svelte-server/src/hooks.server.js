@@ -16,7 +16,7 @@ const databaseQuery = (async ({ event, resolve }) => {
 
     if (req === 'nodes') {
         let nodes = await makeQuery('SELECT * FROM stops WHERE location_type is NULL LIMIT 1000')
-        console.log('nodes', nodes);
+        // console.log('nodes', nodes);
         nodes = nodes.map((node, i) => ({
             id: node.stop_id,
             data: {
