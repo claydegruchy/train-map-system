@@ -15,6 +15,19 @@ in `database/`
 load a backup with `psql -h localhost -U user -d gtfs_database < gtfs_database.backup`
 
 
+# data
+agency	{agency_id,agency_name,agency_url,agency_timezone,agency_lang}
+attributions	{attribution_id,organization_name,is_producer,attribution_url,attribution_email}
+calendar	{monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_id}
+calendar_dates	{service_id,exception_type,date}
+feed_info	{feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_contact_email,feed_contact_url}
+routes	{route_long_name,route_short_name,agency_id,route_type,route_id}
+stop_times	{trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_type}
+stops	{stop_name,parent_station,stop_id,stop_lat,stop_lon,location_type}
+trips	{route_id,service_id,trip_id}
+
+
+
 # notes
 this should be remade to use `opentripplanner`
 
