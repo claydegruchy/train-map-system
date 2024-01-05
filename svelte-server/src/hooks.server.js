@@ -13,9 +13,19 @@ const databaseQuery = (async ({ event, resolve }) => {
     console.log('databaseQuery', event.url.pathname);
     const req = event.url.pathname.split('/api/')[1];
 
-
+    let route_id = 10402;
     if (req === 'nodes') {
-        let nodes = await makeQuery('SELECT * FROM stops WHERE location_type is NULL LIMIT 10000')
+        let nodes = await makeQuery(
+            // `SELECT * FROM stops WHERE location_type is NULL LIMIT 1000`
+            `
+SELECT stops.stop_name,stops.stop_lat, stops.stop_lon  
+FROM stops
+JOIN stop_times ON stops.stop_id = stop_times.stop_id
+JOIN trips ON stop_times.trip_id = trips.trip_id
+JOIN routes ON trips.route_id = routes.route_id
+WHERE routes.route_id = ${route_id};
+            `
+        )
         // console.log('nodes', nodes);
         nodes = nodes.map((node, i) => ({
             id: node.stop_id,

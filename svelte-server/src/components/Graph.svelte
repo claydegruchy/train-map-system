@@ -79,6 +79,30 @@
       }
     }, 300);
 
+    cyInstance.on("zoom", function () {
+      let defaultNodeSize = 8;
+      let defaultEdgeSize = 2;
+      let currentZoom = cyInstance.zoom();
+      let zoomFactor = 1 / currentZoom;
+      let nodeSize = zoomFactor * defaultNodeSize;
+      let edgeSize = zoomFactor * defaultEdgeSize;
+      let fontSize = nodeSize * 1.6;
+
+      cyInstance
+        .style()
+        .resetToDefault()
+        .selector("edge")
+        .style("width", edgeSize)
+        .selector("node")
+        .style("width", nodeSize)
+        .style("height", nodeSize)
+        .style("font-size", fontSize)
+        .style("text-valign", "center")
+        .style("text-halign", "center")
+        .style("label", "data(id)")
+        .update();
+    });
+
     // when viewport updated
     cyInstance.on("pan zoom resize", debouncedViewportUpdates);
   });
