@@ -121,6 +121,9 @@
   zoom={3}
   class="map"
   standardControls
+  
+  
+  
   style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
 >
   {#each db as route}
@@ -156,7 +159,7 @@
   <ZoomRange minzoom={7 + (selectedStation ? -3 : 0)} enforce>
     {#each Object.entries(locations) as [k, { name, lngLat }]}
       {#if lngLat}
-        {#if !selectedRoute || (selectedRoute && db.filter((r) => r.Itinerary == selectedRoute && r.stations.includes(name)).length > 0)}
+        {#if !selectedRoute || (selectedRoute && db.filter((r) => r.Itinerary == selectedRoute && r.stations.includes(name)).length > 0) || (selectedStation && db.filter((r) => r.stations.includes(selectedStation) && r.stations.includes(name))) > 0}
           <Marker {lngLat}>
             <div class="marker">{name}</div>
             <Popup
