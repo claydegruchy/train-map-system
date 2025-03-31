@@ -1,0 +1,2033 @@
+[
+
+	{
+		"Night Train": "ATC IR 11500 + IR 11501",
+		"Name": "",
+		"Itinerary": "Arad – București",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=24\">View details</a>",
+		"Route": "IR 11500: Arad - Timişoara Nord - Craiova - București Nord<br><br>IR 11501: București Nord - Craiova - Timişoara Nord - Arad",
+		"Countries": "RO",
+		"Operator": "ATC",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.astratranscarpatic.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 2626 + Fast 2627",
+		"Name": "",
+		"Itinerary": "Varna – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=133\">View details</a>",
+		"Route": "Fast 2626: Varna - Shumen - Targovishte - Gorna Oryahovitsa - Mezdra - Sofia<br><br>Fast 2627: Sofia - Mezdra - Pleven - Targovishte - Shumen - Varna",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 2636 + Fast 2637",
+		"Name": "",
+		"Itinerary": "Dobrich – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=142\">View details</a>",
+		"Route": "Fast 2636: Dobrich - Poveljanovo - Dalgopol - Sliven - Pirdop - Sofia<br><br>Fast 2637: Sofia - Pirdop - Sliven - Dalgopol - Poveljanovo - Dobrich",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 3636 + Fast 3637",
+		"Name": "",
+		"Itinerary": "Varna – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=132\">View details</a>",
+		"Route": "Fast 3636: Varna - Poveljanovo - Dalgopol - Sliven - Pirdop - Sofia<br><br>Fast 3637: Sofia - Pirdop - Sliven - Dalgopol - Varna",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 3686 + Fast 3687",
+		"Name": "",
+		"Itinerary": "Burgas – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=139\">View details</a>",
+		"Route": "Fast 3686: Burgas - Sliven - Sofia<br><br>Fast 3687: Sofia - Pirdop - Sliven - Burgas",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 8626 + Fast 8627",
+		"Name": "",
+		"Itinerary": "Burgas – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=134\">View details</a>",
+		"Route": "Fast 8626: Burgas - Jambol - Stara Zagora - Dimitrovgrad - Plovdiv - Septemvri - Iskar - Sofia<br><br>Fast 8627: Sofia - Iskar - Septemvri - Plovdiv - Dimitrovgrad - Stara Zagora - Jambol - Burgas",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 8656 + Fast 8657",
+		"Name": "",
+		"Itinerary": "Varna – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=131\">View details</a>",
+		"Route": "Fast 8656: Varna - Jambol - Stara Zagora - Dimitrovgrad - Plovdiv - Septemvri - Iskar - Sofia<br><br>Fast 8657: Sofia - Iskar - Septemvri - Plovdiv - Dimitrovgrad - Stara Zagora - Poveljanovo - Varna",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "BDŽ Fast 9646 + Fast 9647",
+		"Name": "",
+		"Itinerary": "Silistra – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=135\">View details</a>",
+		"Route": "Fast 9646: Silistra - Ruse - Gorna Oryahovitsa - Pleven - Mezdra - Sofia<br><br>Fast 9647: Sofia - Mezdra - Pleven - Gorna Oryahovitsa - Ruse - Silistra",
+		"Countries": "BG",
+		"Operator": "BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://razpisanie.bdz.bg/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ČD EN 40458 + EN 40459",
+		"Name": "Jižní expres",
+		"Itinerary": "Praha – Zürich",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=120\">View details</a>",
+		"Route": "EN 40458: Praha hl.n. - Ústí n.L.hl.n. - Dresden Hbf - Riesa - Freiburg (Breisgau) Hbf - Basel SBB - Zürich HB<br><br>EN 40459: Zürich HB - Basel SBB - Freiburg (Breisgau) Hbf - Offenburg - Karlsruhe Hbf - Mannheim - Frankfurt am Main Hbf - Leipzig Hbf - Dresden Hbf - Děčín hl.n. - Ústí n.L.hl.n. - Praha hl.n.",
+		"Countries": "CH, DE, CZ",
+		"Operator": "ČD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cd.cz/en/spojeni-a-jizdenka/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ČD EN 476 + EN 477",
+		"Name": "Metropol",
+		"Itinerary": "Budapest – Praha",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=4\">View details</a>",
+		"Route": "EN 476: Budapest Nyugati - Vac - Nové Zámky - Bratislava hl.st. - Břeclav - Brno hl.n. - Pardubice hl.n. - Praha hl.n.<br><br>EN 477: Praha hl.n. - Pardubice hl.n. - Brno hl.n. - Břeclav - Bratislava hl.st. - Nové Zámky - Vac - Budapest Nyugati",
+		"Countries": "HU, CZ",
+		"Operator": "ČD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cd.cz/en/spojeni-a-jizdenka/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ČD EN 50466 + EN 50467",
+		"Name": "",
+		"Itinerary": "Praha – Zürich",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=118\">View details</a>",
+		"Route": "EN 50466: Praha hl.n. - České Budějovice - Bregenz - Zürich HB<br><br>EN 50467: Zürich HB - Bregenz - České Budějovice - Praha hl.n.",
+		"Countries": "AT, CH, CZ",
+		"Operator": "ČD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cd.cz/en/spojeni-a-jizdenka/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFM/CFR 401 + 402",
+		"Name": "Prietenia",
+		"Itinerary": "Chişinău – București",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=22\">View details</a>",
+		"Route": "401: Chişinău - Ungheni - Ungheni prut - Iași - Bacău - Ploiești Sud - București Nord<br><br>402: București Nord - Ploiești Sud - Bacău - Iași - Ungheni prut - Ungheni - Chişinău",
+		"Countries": "RO, MD",
+		"Operator": "CFM, CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://bileteinternationale.cfrcalatori.ro/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IC 472 + IC 473",
+		"Name": "Ister",
+		"Itinerary": "București – Budapest",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=12\">View details</a>",
+		"Route": "IC 472: București Nord - Ploiești Vest - Brașov - Sibiu - Arad - Curtici - Szolnok - Budapest Keleti<br><br>IC 473: Budapest Keleti - Szolnok - Curtici - Arad - Sibiu - Brașov - Ploiești Vest - București Nord",
+		"Countries": "HU, RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://bileteinternationale.cfrcalatori.ro/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1641 (CN) + IRN 1642 (CN)",
+		"Name": "",
+		"Itinerary": "București – Cluj-Napoca",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=250\">View details</a>",
+		"Route": "IRN 1641 (CN): București Nord - Ploiești Vest - Brașov - Sighișoara - Cluj-Napoca<br><br>IRN 1642 (CN): Cluj-Napoca - Sighișoara - Brașov - Câmpina - Ploiești Vest - București Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1641 (SM) + IRN 1642 (SM)",
+		"Name": "",
+		"Itinerary": "București – Satu Mare",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=20\">View details</a>",
+		"Route": "IRN 1641 (SM): București Nord - Ploiești Vest - Câmpina - Brașov - Miercurea Ciuc - Beclean pe Somes - Baia Mare - Satu Mare<br><br>IRN 1642 (SM): Satu Mare - Baia Mare - Beclean pe Somes - Miercurea Ciuc - Brașov - Câmpina - Ploiești Vest - București Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1653 + IRN 1654",
+		"Name": "",
+		"Itinerary": "București – Vatra Dornei",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=19\">View details</a>",
+		"Route": "IRN 1653: București Nord - Ploiești Sud - Suceava - Câmpulung Moldovenesc - Vatra Dornei - Vatra Dornei Băi<br><br>IRN 1654: Vatra Dornei Băi - Vatra Dornei - Câmpulung Moldovenesc - Suceava - Ploiești Sud - București Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1667 + IRN 1668",
+		"Name": "",
+		"Itinerary": "București – Iași",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=23\">View details</a>",
+		"Route": "IRN 1667: București Nord - Ploiești Sud - Buzău - Iași<br><br>IRN 1668: Iași - Vaslui - Bârlad - București Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1763 + IRN 1765",
+		"Name": "",
+		"Itinerary": "Iași – Timişoara",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=15\">View details</a>",
+		"Route": "IRN 1763: Iași - Suceava - Câmpulung Moldovenesc - Vatra Dornei - Beclean pe Somes - Dej - Cluj-Napoca - Deva - Arad - Timişoara Nord<br><br>IRN 1765: Timişoara Nord - Arad - Deva - Alba Iulia - Cluj-Napoca - Dej - Beclean pe Somes - Câmpulung Moldovenesc - Suceava - Iași",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1821 + IRN 1822",
+		"Name": "",
+		"Itinerary": "București – Arad",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=21\">View details</a>",
+		"Route": "IRN 1821: București Nord - Craiova - Petroșani - Deva - Arad<br><br>IRN 1822: Arad - Deva - Petroșani - Craiova - București Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1837 + IRN 1838",
+		"Name": "",
+		"Itinerary": "Iași – Cluj-Napoca",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=11\">View details</a>",
+		"Route": "IRN 1837: Iași - Suceava - Câmpulung Moldovenesc - Cluj-Napoca<br><br>IRN 1838: Cluj-Napoca - Dej - Beclean pe Somes - Vatra Dornei - Iași",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1920 + IRN 1922",
+		"Name": "",
+		"Itinerary": "Constanța – Oradea",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=26\">View details</a>",
+		"Route": "IRN 1920: Constanța - București Nord - Craiova - Petroșani - Deva - Arad - Oradea<br><br>IRN 1922: Oradea - Arad - Deva - Petroșani - Craiova - București Nord - Constanța",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1941 + IRN 1942/R 8810",
+		"Name": "",
+		"Itinerary": "Satu Mare – Mangalia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=25\">View details</a>",
+		"Route": "IRN 1941: Satu Mare - Baia Mare - Dej - Beclean pe Somes - Deda - Gheorgheni - Miercurea Ciuc - Brașov - Constanța - Mangalia<br><br>IRN 1942/R 8810: Mangalia - Constanța - Bucuresti Baneasa - Ploiești Vest - Brașov - Miercurea Ciuc - Gheorgheni - Dej - Baia Mare - Satu Mare",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 1952 + IRN 1954",
+		"Name": "",
+		"Itinerary": "Suceava – Constanța",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=13\">View details</a>",
+		"Route": "IRN 1952: Suceava Nord - Suceava - Bacău - Buzău - Constanța<br><br>IRN 1954: Constanța - Fetești - Buzău - Bacău - Suceava - Suceava Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR IRN 78/IRN 1741 + IRN 1744/IRN 79",
+		"Name": "",
+		"Itinerary": "București – Oradea",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=14\">View details</a>",
+		"Route": "IRN 78/IRN 1741: București Nord - Craiova - Timişoara Nord - Arad - Oradea<br><br>IRN 1744/IRN 79: Oradea - Arad - Timişoara Nord - Craiova - București Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR R 4116 + IRN 1641/R 4112",
+		"Name": "",
+		"Itinerary": "Sighetu Marmației  – București",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=251\">View details</a>",
+		"Route": "R 4116: Sighetu Marmației - Vișeu de Jos - Beclean pe Somes - Gheorgheni - Câmpina - Ploiești Vest - București Nord<br><br>IRN 1641/R 4112: București Nord - Ploiești Vest - Câmpina - Brașov - Miercurea Ciuc - Beclean pe Somes - Vișeu de Jos - Sighetu Marmației",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR R-E 4007/IRN 1642 + IRN 1641/R-E 4008",
+		"Name": "",
+		"Itinerary": "Bistrița – București",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=249\">View details</a>",
+		"Route": "R-E 4007/IRN 1642: Bistrița Nord - Sărățel - Gheorgheni - Brașov - Câmpina - Ploiești Vest - București Nord<br><br>IRN 1641/R-E 4008: București Nord - Ploiești Vest - Brașov - Gheorgheni - Sărățel - Bistrița Nord",
+		"Countries": "RO",
+		"Operator": "CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.cfrcalatori.ro/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR/MÁV IC 406 + IC 407",
+		"Name": "Corona",
+		"Itinerary": "Brașov – Budapest",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=67\">View details</a>",
+		"Route": "IC 406: Brașov - Miercurea Ciuc - Gheorgheni - Deda - Beclean pe Somes - Debrecen - Szolnok - Budapest Keleti<br><br>IC 407: Budapest Keleti - Szolnok - Debrecen - Carei - Deda - Gheorgheni - Miercurea Ciuc - Brașov",
+		"Countries": "HU, RO",
+		"Operator": "CFR, MÁV",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://jegy.mav.hu/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR/MÁV IRN / IC 78 + IRN / IC 79",
+		"Name": "Muntenia",
+		"Itinerary": "București – Budapest",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=61\">View details</a>",
+		"Route": "IRN / IC 78: București Nord - Craiova - Timişoara Nord - Arad - Curtici - Lőkösháza - Szolnok - Budapest Keleti<br><br>IRN / IC 79: Budapest Keleti - Szolnok - Lőkösháza - Curtici - Arad - Timişoara Nord - Craiova - București Nord",
+		"Countries": "HU, RO",
+		"Operator": "CFR, MÁV",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://bileteinternationale.cfrcalatori.ro/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CFR/MÁV/ÖBB D 346 + D 347",
+		"Name": "Dacia",
+		"Itinerary": "București – Wien",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=59\">View details</a>",
+		"Route": "D 346: București Nord - Ploiești Vest - Brașov - Sighișoara - Cluj-Napoca - Oradea - Budapest Keleti - Budapest Ferencváros - Budapest Kelenföld - Győr - Wien Hbf<br><br>D 347: Wien Hbf - Győr - Budapest Kelenföld - Budapest Keleti - Arad - Alba Iulia - Sighișoara - Brașov - Ploiești Vest - București Nord",
+		"Countries": "AT, HU, RO",
+		"Operator": "CFR, MÁV, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://bileteinternationale.cfrcalatori.ro/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CS 1001 (A) + 1002 (A)",
+		"Name": "Highlander",
+		"Itinerary": "London – Aberdeen",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=39\">View details</a>",
+		"Route": "1001 (A): London Euston - Crewe - Preston - Dundee - Aberdeen<br><br>1002 (A): Aberdeen - Dundee - Preston - Crewe - London Euston",
+		"Countries": "GB",
+		"Operator": "CS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sleeper.scot/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CS 1001 (FW) + 1002 (FW)",
+		"Name": "Highlander",
+		"Itinerary": "London – Fort William",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=40\">View details</a>",
+		"Route": "1001 (FW): London Euston - Crewe - Preston - Crianlarich - Fort William / An Gearasdan<br><br>1002 (FW): Fort William / An Gearasdan - Crianlarich - Preston - Crewe - London Euston",
+		"Countries": "GB",
+		"Operator": "CS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sleeper.scot/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CS 1001 (I) + 1002 (I)",
+		"Name": "Highlander",
+		"Itinerary": "London – Inverness",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=41\">View details</a>",
+		"Route": "1001 (I): London Euston - Crewe - Preston - Stirling - Perth / Peairt - Aviemore - Inverness / Inbhir Nis<br><br>1002 (I): Inverness / Inbhir Nis - Aviemore - Perth / Peairt - Stirling - Preston - Crewe - London Euston",
+		"Countries": "GB",
+		"Operator": "CS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sleeper.scot/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CS 1003 (E) + 1004 (E)",
+		"Name": "Lowlander",
+		"Itinerary": "London – Edinburgh",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=38\">View details</a>",
+		"Route": "1003 (E): London Euston - Watford Junction - Carlisle - Edinburgh Waverley<br><br>1004 (E): Edinburgh Waverley - Carlisle - Watford Junction - London Euston",
+		"Countries": "GB",
+		"Operator": "CS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sleeper.scot/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "CS 1003 (G) + 1004 (G)",
+		"Name": "Lowlander",
+		"Itinerary": "London – Glasgow",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=37\">View details</a>",
+		"Route": "1003 (G): London Euston - Watford Junction - Carlisle - Motherwell - Glasgow Central<br><br>1004 (G): Glasgow Central - Motherwell - Carlisle - Watford Junction - London Euston",
+		"Countries": "GB",
+		"Operator": "CS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sleeper.scot/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ES 452 + 453",
+		"Name": "",
+		"Itinerary": "Praha – Bruxelles / Brussel",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=237\">View details</a>",
+		"Route": "452: Praha hl.n. - Ústí n.L.hl.n. - Děčín hl.n. - Bad Schandau - Dresden Hbf - Dresden Neustadt - Berlin Hbf - Deventer - Amersfoort Centraal - Amsterdam Centraal - Rotterdam Centraal - Antwerpen Centraal - Bruxelles-Midi / Brussel-Zuid<br><br>453: Bruxelles-Midi / Brussel-Zuid - Antwerpen Centraal - Rotterdam Centraal - Den Haag - Schipol Airport - Amsterdam Centraal - Amersfoort Centraal - Deventer - Berlin Hbf - Dresden Neustadt - Dresden Hbf - Bad Schandau - Děčín hl.n. - Ústí n.L.hl.n. - Praha hl.n.",
+		"Countries": "CZ, DE, NL, BE",
+		"Operator": "ES",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.europeansleeper.eu/de\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 1954 + IC Notte 1955 (P)",
+		"Name": "",
+		"Itinerary": "Palermo – Roma",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=101\">View details</a>",
+		"Route": "IC Notte 1954: Palermo Centrale - Termini Imerese - Barcellona Castroreale - Messina Centrale - Lamezia Terme Centrale - Roma Termini<br><br>IC Notte 1955 (P): Roma Termini - Napoli Centrale  - Salerno - Messina Centrale - Barcellona Castroreale - Termini Imerese - Palermo Centrale",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 1955 (S) + IC Notte 1956",
+		"Name": "",
+		"Itinerary": "Roma – Siracusa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=103\">View details</a>",
+		"Route": "IC Notte 1955 (S): Roma Termini - Napoli Centrale  - Salerno - Messina Centrale - Taormina Giardini - Catania Centrale - Siracusa<br><br>IC Notte 1956: Siracusa - Catania Centrale - Taormina Giardini - Messina Centrale - Lamezia Terme Centrale - Roma Termini",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 1958 + IC Notte 1959 (P)",
+		"Name": "",
+		"Itinerary": "Palermo – Roma",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=102\">View details</a>",
+		"Route": "IC Notte 1958: Palermo Centrale - Termini Imerese - Barcellona Castroreale - Messina Centrale - Salerno - Napoli Centrale  - Roma Termini<br><br>IC Notte 1959 (P): Roma Termini - Lamezia Terme Centrale - Messina Centrale - Barcellona Castroreale - Termini Imerese - Palermo Centrale",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 1959 (S) + IC Notte 1960",
+		"Name": "",
+		"Itinerary": "Roma – Siracusa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=104\">View details</a>",
+		"Route": "IC Notte 1959 (S): Roma Termini - Lamezia Terme Centrale - Messina Centrale - Taormina Giardini - Catania Centrale - Siracusa<br><br>IC Notte 1960: Siracusa - Catania Centrale - Taormina Giardini - Messina Centrale - Salerno - Napoli Centrale  - Roma Termini",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 1962 + IC Notte 1963",
+		"Name": "",
+		"Itinerary": "Siracusa – Milano",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=85\">View details</a>",
+		"Route": "IC Notte 1962: Siracusa - Catania Centrale - Taormina Giardini - Messina Centrale - Lamezia Terme Centrale - Salerno - Firenze S. M. N. - Bologna Centrale - Milano Centrale<br><br>IC Notte 1963: Milano Centrale - Bologna Centrale - Firenze S. M. N. - Salerno - Lamezia Terme Centrale - Messina Centrale - Taormina Giardini - Catania Centrale - Siracusa",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 1964 + IC Notte 1967",
+		"Name": "",
+		"Itinerary": "Palermo – Milano",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=84\">View details</a>",
+		"Route": "IC Notte 1964: Palermo Centrale - Termini Imerese - Barcellona Castroreale - Messina Centrale - Lamezia Terme Centrale - Salerno - Firenze S. M. N. - Bologna Centrale - Milano Centrale<br><br>IC Notte 1967: Milano Centrale - Bologna Centrale - Firenze S. M. N. - Salerno - Lamezia Terme Centrale - Messina Centrale - Barcellona Castroreale - Termini Imerese - Palermo Centrale",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 752 + IC Notte 755",
+		"Name": "",
+		"Itinerary": "Lecce – Milano",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=86\">View details</a>",
+		"Route": "IC Notte 752: Lecce - Brindisi - Bari Centrale - Foggia - Bologna Centrale - Milano Centrale<br><br>IC Notte 755: Milano Centrale - Bologna Centrale - Foggia - Bari Centrale - Brindisi - Lecce",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 754 + IC Notte 757",
+		"Name": "",
+		"Itinerary": "Lecce – Torino",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=97\">View details</a>",
+		"Route": "IC Notte 754: Lecce - Brindisi - Bari Centrale - Foggia - Bologna Centrale - Torino Lingotto<br><br>IC Notte 757: Torino Lingotto - Bologna Centrale - Foggia - Bari Centrale - Brindisi - Lecce",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 758 + IC Notte 765",
+		"Name": "",
+		"Itinerary": "Lecce – Milano",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=76\">View details</a>",
+		"Route": "IC Notte 758: Lecce - Brindisi - Taranto - Bari Centrale - Foggia - Bologna Centrale - Milano Centrale<br><br>IC Notte 765: Milano Centrale - Bologna Centrale - Foggia - Bari Centrale",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 763 + IC Notte 764",
+		"Name": "",
+		"Itinerary": "Bolzano – Roma",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=106\">View details</a>",
+		"Route": "IC Notte 763: Bolzano / Bozen - Verona Porta Nuova - Orvieto - Roma Termini<br><br>IC Notte 764: Roma Termini - Orvieto - Verona Porta Nuova - Bolzano / Bozen",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 770 + IC Notte 774",
+		"Name": "",
+		"Itinerary": "Trieste – Roma",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=105\">View details</a>",
+		"Route": "IC Notte 770: Trieste Centrale - Udine - Venezia Santa Lucia - Bologna Centrale - Roma Termini<br><br>IC Notte 774: Roma Termini - Venezia Santa Lucia - Udine - Trieste Centrale",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 788 + IC Notte 789",
+		"Name": "",
+		"Itinerary": "Lecce – Roma",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=96\">View details</a>",
+		"Route": "IC Notte 788: Lecce - Brindisi - Bari Centrale - Roma Termini<br><br>IC Notte 789: Roma Termini - Bari Centrale - Brindisi - Lecce",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 794 + IC Notte 795",
+		"Name": "",
+		"Itinerary": "Reggio Calabria – Torino",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=100\">View details</a>",
+		"Route": "IC Notte 794: Reggio Calabria Centrale - Tropea - Lamezia Terme Centrale - Roma Ostiense - Civitavecchia - Grosseto - Livorno Centrale  - Pisa Centrale - La Spezia Centrale - Genova Piazza Principe / Zêna - Torino Lingotto<br><br>IC Notte 795: Torino Lingotto - Genova Piazza Principe / Zêna - La Spezia Centrale - Pisa Centrale - Livorno Centrale  - Grosseto - Civitavecchia - Roma Ostiense - Lamezia Terme Centrale - Tropea - Reggio Calabria Centrale",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 796 + IC Notte 1515",
+		"Name": "",
+		"Itinerary": "Salerno – Torino",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=99\">View details</a>",
+		"Route": "IC Notte 796: Salerno - Napoli Centrale  - Roma Tiburtina - Pisa Centrale - La Spezia Centrale - Genova Piazza Principe / Zêna - Torino Lingotto<br><br>IC Notte 1515: Torino Lingotto - Genova Piazza Principe / Zêna - La Spezia Centrale - Pisa Centrale - Civitavecchia - Roma Ostiense - Napoli Centrale  - Salerno",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "FS IC Notte 797 + IC Notte 798",
+		"Name": "",
+		"Itinerary": "Torino – Salerno",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=83\">View details</a>",
+		"Route": "IC Notte 797: Torino Porta Susa - Milano Porta Garibaldi - Roma Tiburtina - Napoli Centrale  - Salerno<br><br>IC Notte 798: Salerno - Napoli Centrale  - Roma Tiburtina - Orvieto - Milano Porta Garibaldi - Torino Porta Susa",
+		"Countries": "IT",
+		"Operator": "FS",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.trenitalia.com/en.html\">Book tickets</a>"
+	},
+	{
+		"Night Train": "GA F5 725 + F5 726",
+		"Name": "F5",
+		"Itinerary": "Oslo – Stavanger",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=65\">View details</a>",
+		"Route": "F5 725: Oslo S - Drammen - Kongsberg - Sandnes - Stavanger<br><br>F5 726: Stavanger - Sandnes - Kongsberg - Drammen - Oslo S",
+		"Countries": "NO",
+		"Operator": "GA",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://go-aheadnordic.no/planner\">Book tickets</a>"
+	},
+	{
+		"Night Train": "GWR Sleeper (Penzance) + Sleeper (London)",
+		"Name": "Night Riviera",
+		"Itinerary": "London – Penzance",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=42\">View details</a>",
+		"Route": "Sleeper (Penzance): London Paddington - Reading - Plymouth - Penzance<br><br>Sleeper (London): Penzance - Plymouth - London Paddington",
+		"Countries": "GB",
+		"Operator": "GWR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.gwr.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "HŽPP 1820 + 1821",
+		"Name": "",
+		"Itinerary": "Split – Zagreb",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=3\">View details</a>",
+		"Route": "1820: Split - Knin - Karlovac - Zagreb Gl. K.<br><br>1821: Zagreb Gl. K. - Karlovac - Knin - Split",
+		"Countries": "HR",
+		"Operator": "HŽPP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.hzpp.hr/en/#\">Book tickets</a>"
+	},
+	{
+		"Night Train": "HŽPP 1840 + 1841",
+		"Name": "",
+		"Itinerary": "Vukovar – Split",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=47\">View details</a>",
+		"Route": "1840: Vukovar - Slavonski Brod - Zagreb Gl. K. - Karlovac - Knin - Split<br><br>1841: Split - Knin - Zagreb Gl. K. - Slavonski Brod - Vukovar",
+		"Countries": "HR",
+		"Operator": "HŽPP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.hzpp.hr/en/#\">Book tickets</a>"
+	},
+	{
+		"Night Train": "HŽPP 1880 + 1881",
+		"Name": "Dalmacija",
+		"Itinerary": "Osijek – Split",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=48\">View details</a>",
+		"Route": "1880: Osijek - Zagreb Gl. K. - Knin - Split<br><br>1881: Split - Knin - Zagreb Gl. K. - Bjelovar - Osijek",
+		"Countries": "HR",
+		"Operator": "HŽPP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.hzpp.hr/en/#\">Book tickets</a>"
+	},
+	{
+		"Night Train": "HŽPP/ÖBB EN 40414 + EN 40465",
+		"Name": "",
+		"Itinerary": "Zagreb – Zürich",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=117\">View details</a>",
+		"Route": "EN 40414: Zagreb Gl. K. - Ljubljana - Villach Hbf - Innsbruck Hbf - St. Anton am Arlberg - Feldkirch - Buchs (SG) - Zürich HB<br><br>EN 40465: Zürich HB - Buchs (SG) - Feldkirch - Bludenz - St. Anton am Arlberg - Innsbruck Hbf - Villach Hbf - Ljubljana - Zagreb Gl. K.",
+		"Countries": "AT, CH, SI, HR",
+		"Operator": "HŽPP, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.hzpp.hr/en/#\">Book tickets</a>"
+	},
+	{
+		"Night Train": "HŽPP/ÖBB EN 414 + EN 40237",
+		"Name": "",
+		"Itinerary": "Zagreb – Stuttgart",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=57\">View details</a>",
+		"Route": "EN 414: Zagreb Gl. K. - Ljubljana - Villach Hbf - Rosenheim - München Ost - Augsburg Hbf - Ulm Hbf - Stuttgart Hbf<br><br>EN 40237: Stuttgart Hbf - Ulm Hbf - Augsburg Hbf - München Ost - Rosenheim - Villach Hbf - Ljubljana - Zagreb Gl. K.",
+		"Countries": "DE, AT, SI, HR",
+		"Operator": "HŽPP, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.hzpp.hr/en/#\">Book tickets</a>"
+	},
+	{
+		"Night Train": "MÁV 1246 / 1605 / 481 + 480 / 1604 / 1247",
+		"Name": "Istria",
+		"Itinerary": "Budapest – Rijeka",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=224\">View details</a>",
+		"Route": "1246 / 1605 / 481: Budapest Déli - Budapest Kelenföld - Vesprem - Zalaegerszeg - Ljubljana - Opatija Matulji - Rijeka<br><br>480 / 1604 / 1247: Rijeka - Opatija Matulji - Ljubljana - Zalaegerszeg - Vesprem - Budapest Kelenföld - Budapest Déli",
+		"Countries": "HU, SI, HR",
+		"Operator": "MÁV",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://jegy.mav.hu/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "MÁV EN 40457 + EN 40476",
+		"Name": "",
+		"Itinerary": "Berlin – Budapest",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=58\">View details</a>",
+		"Route": "EN 40457: Berlin Hbf - Berlin Südkreuz - Dresden Neustadt - Dresden Hbf - Ústí n.L.hl.n. - Praha-Holešovice - Bratislava hl.st. - Vac - Budapest Nyugati<br><br>EN 40476: Budapest Nyugati - Vac - Bratislava hl.st. - Brno hl.n. - Dresden Hbf - Dresden Neustadt - Berlin Südkreuz - Berlin Hbf",
+		"Countries": "DE, CZ, SK, HU",
+		"Operator": "MÁV",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://jegy.mav.hu/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "MÁV IC 1204 + IC 1205",
+		"Name": "Adria",
+		"Itinerary": "Budapest – Split",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=225\">View details</a>",
+		"Route": "IC 1204: Budapest Keleti - Budapest Kelenföld - Székesfehérvár - Siófok - Nagykanizsa - Zagreb Gl. K. - Karlovac - Knin - Split<br><br>IC 1205: Split - Knin - Karlovac - Zagreb Gl. K. - Nagykanizsa - Siófok - Székesfehérvár - Budapest Kelenföld - Budapest Keleti",
+		"Countries": "HU, HR",
+		"Operator": "MÁV",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://jegy.mav.hu/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "MÁV/ÖBB EN 40462 + EN 40467",
+		"Name": "",
+		"Itinerary": "Budapest – Zürich",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=74\">View details</a>",
+		"Route": "EN 40462: Budapest Keleti - Budapest Kelenföld - Győr - Wien Hbf - Wien Meidling - St. Pölten Hbf - Linz Hbf - Bludenz - Feldkirch - Buchs (SG) - Zürich HB<br><br>EN 40467: Zürich HB - Buchs (SG) - Feldkirch - Bludenz - Linz Hbf - St. Pölten Hbf - Wien Meidling - Wien Hbf - Győr - Budapest Kelenföld - Budapest Keleti",
+		"Countries": "AT, CH, HU",
+		"Operator": "MÁV, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://jegy.mav.hu/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "MÁV/ÖBB EN 50237 + EN 50462",
+		"Name": "Kálman Imre",
+		"Itinerary": "Budapest – Stuttgart",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=54\">View details</a>",
+		"Route": "EN 50237: Budapest Keleti - Budapest Kelenföld - Győr - Wien Hbf - Wien Meidling - St. Pölten Hbf - Linz Hbf - Rosenheim - München Ost - Augsburg Hbf - Ulm Hbf - Stuttgart Hbf<br><br>EN 50462: Stuttgart Hbf - Ulm Hbf - Augsburg Hbf - München Ost - Salzburg Hbf - Linz Hbf - St. Pölten Hbf - Wien Meidling - Wien Hbf - Győr - Budapest Kelenföld - Budapest Keleti",
+		"Countries": "DE, AT, HU",
+		"Operator": "MÁV, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://jegy.mav.hu/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "MÁV/PKP IC 407 / EN 477 + EN 476",
+		"Name": "",
+		"Itinerary": "Warszawa – Budapest",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=127\">View details</a>",
+		"Route": "IC 407 / EN 477: Warszawa Wschodnia - Warszawa Centralna - Kraków Gł. - Trzebinia - Katowice - Rybnik - Bratislava hl.st. - Nové Zámky - Vac - Budapest Nyugati<br><br>EN 476: Budapest Nyugati - Vac - Nové Zámky - Bratislava hl.st. - Břeclav - Katowice - Trzebinia - Kraków Gł. - Warszawa Centralna",
+		"Countries": "PL, CZ, SK, HU",
+		"Operator": "MÁV, PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.polrail.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 233 + NJ 235",
+		"Name": "",
+		"Itinerary": "Wien – La Spezia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=231\">View details</a>",
+		"Route": "NJ 233: Wien Hbf - Klagenfurt Hbf - Villach Hbf - Verona Porta Nuova - Milano Rogoredo - Genova Piazza Principe / Zêna - Levanto - La Spezia Centrale<br><br>NJ 235: La Spezia Centrale - Levanto - Genova Piazza Principe / Zêna - Milano Rogoredo - Verona Porta Nuova - Klagenfurt Hbf - Bruck an der Mur - Wiener Neustadt Hbf - Wien Hbf",
+		"Countries": "AT, IT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 236 + NJ 237",
+		"Name": "",
+		"Itinerary": "Venezia – Stuttgart",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=53\">View details</a>",
+		"Route": "NJ 236: Venezia Santa Lucia - Udine - Villach Hbf - Salzburg Hbf - München Ost - Augsburg Hbf - Ulm Hbf - Stuttgart Hbf<br><br>NJ 237: Stuttgart Hbf - Ulm Hbf - Augsburg Hbf - München Ost - Salzburg Hbf - Villach Hbf - Udine - Venezia Santa Lucia",
+		"Countries": "DE, AT, IT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 294 + NJ 295",
+		"Name": "",
+		"Itinerary": "Roma – München",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=49\">View details</a>",
+		"Route": "NJ 294: Roma Termini - Firenze S. M. N. - Bologna Centrale - Villach Hbf - Salzburg Hbf - Rosenheim - München Hbf<br><br>NJ 295: München Hbf - Rosenheim - Salzburg Hbf - Villach Hbf - Bologna Centrale - Firenze S. M. N. - Roma Termini",
+		"Countries": "DE, AT, IT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 402 + NJ 403",
+		"Name": "",
+		"Itinerary": "Zürich – Amsterdam",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=44\">View details</a>",
+		"Route": "NJ 402: Zürich HB - Basel SBB - Basel Bad Bf - Freiburg (Breisgau) Hbf - Offenburg - Bonn-Beuel - Köln Hbf - Eindhoven Centraal - Utrecht Centraal - Amsterdam Centraal<br><br>NJ 403: Amsterdam Centraal - Utrecht Centraal - Eindhoven Centraal - Köln Hbf - Bonn-Beuel - Offenburg - Freiburg (Breisgau) Hbf - Basel Bad Bf - Basel SBB - Zürich HB",
+		"Countries": "DE, CH, NL",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40233 + NJ 40294",
+		"Name": "",
+		"Itinerary": "Wien – Roma",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=232\">View details</a>",
+		"Route": "NJ 40233: Wien Hbf - Wiener Neustadt Hbf - Bruck an der Mur - Klagenfurt Hbf - Villach Hbf - Bologna Centrale - Firenze S. M. N. - Roma Termini<br><br>NJ 40294: Roma Termini - Firenze S. M. N. - Bologna Centrale - Villach Hbf - Klagenfurt Hbf - Wien Hbf",
+		"Countries": "AT, IT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40235 + NJ 40295",
+		"Name": "",
+		"Itinerary": "La Spezia – München",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=51\">View details</a>",
+		"Route": "NJ 40235: La Spezia Centrale - Levanto - Genova Piazza Principe / Zêna - Milano Rogoredo - Verona Porta Nuova - Villach Hbf - Salzburg Hbf - München Hbf<br><br>NJ 40295: München Hbf - Rosenheim - Salzburg Hbf - Villach Hbf - Verona Porta Nuova - Milano Rogoredo - Genova Piazza Principe / Zêna - Levanto - La Spezia Centrale",
+		"Countries": "DE, AT, IT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40236 + NJ 40466",
+		"Name": "",
+		"Itinerary": "Venezia – Wien",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=233\">View details</a>",
+		"Route": "NJ 40236: Venezia Santa Lucia - Treviso Centrale - Udine - Villach Hbf - Salzburg Hbf - Linz Hbf - Wien Hbf<br><br>NJ 40466: Wien Hbf - St. Pölten Hbf - Linz Hbf - Salzburg Hbf - Villach Hbf - Udine - Treviso Centrale - Venezia Santa Lucia",
+		"Countries": "AT, IT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40420 + NJ 40491",
+		"Name": "",
+		"Itinerary": "Innsbruck – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=18\">View details</a>",
+		"Route": "NJ 40420: Innsbruck Hbf - Jenbach - Wörgl Hbf - Kufstein - Rosenheim - München Hbf - Augsburg Hbf - Nürnberg Hbf - Kassel-Wilhelmshöhe - Göttingen - Hannover Hbf - Hamburg Harburg - Hamburg Hbf - Hamburg Altona<br><br>NJ 40491: Hamburg Altona - Hamburg Hbf - Hannover Hbf - Göttingen - Augsburg Hbf - München Ost - Rosenheim - Wörgl Hbf - Jenbach - Innsbruck Hbf",
+		"Countries": "DE, AT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40421 + NJ 40490",
+		"Name": "",
+		"Itinerary": "Amsterdam – Wien",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=46\">View details</a>",
+		"Route": "NJ 40421: Amsterdam Centraal - Amersfoort Centraal - Deventer - Münster (Westf) Hbf - Hamm (Westf) Hbf - Kassel-Wilhelmshöhe - Würzburg Hbf - Nürnberg Hbf - Regensburg Hbf - Passau Hbf - Wels Hbf - Linz Hbf - St. Pölten Hbf - Wien Meidling - Wien Hbf<br><br>NJ 40490: Wien Hbf - Wien Meidling - St. Pölten Hbf - Linz Hbf - Passau Hbf - Regensburg Hbf - Nürnberg Hbf - Würzburg Hbf - Kassel-Wilhelmshöhe - Hamm (Westf) Hbf - Münster (Westf) Hbf - Deventer - Amersfoort Centraal - Amsterdam Centraal",
+		"Countries": "DE, AT, NL",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40424 + NJ 40469",
+		"Name": "",
+		"Itinerary": "Berlin – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=260\">View details</a>",
+		"Route": "NJ 40424: Berlin Hbf - Berlin Südkreuz - Halle/Saale Hbf - Erfurt - Paris Est<br><br>NJ 40469: Paris Est - Erfurt - Halle/Saale Hbf - Berlin Südkreuz - Berlin Hbf",
+		"Countries": "DE, FR",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 40425 + NJ 50490",
+		"Name": "",
+		"Itinerary": "Bruxelles / Brussel – Wien",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=1\">View details</a>",
+		"Route": "NJ 40425: Bruxelles-Midi / Brussel-Zuid - Bruxelles-Nord / Brussel-Noord - Liège-Guillemins - Aachen Hbf - Köln Ehrenfeld - Bonn Hbf - Koblenz Hbf - Mainz Hbf - München Ost - Rosenheim - Salzburg Hbf - Linz Hbf - St. Pölten Hbf - Wien Meidling - Wien Hbf<br><br>NJ 50490: Wien Hbf - Wien Meidling - St. Pölten Hbf - Linz Hbf - Salzburg Hbf - Rosenheim - München Ost - Koblenz Hbf - Bonn Hbf - Köln Ehrenfeld - Aachen Hbf - Liège-Guillemins - Bruxelles-Nord / Brussel-Noord - Bruxelles-Midi / Brussel-Zuid",
+		"Countries": "BE, DE, AT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 408 + NJ 409",
+		"Name": "",
+		"Itinerary": "Berlin – Zürich",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=2\">View details</a>",
+		"Route": "NJ 408: Berlin Hbf - Berlin Südkreuz - Halle/Saale Hbf - Leipzig Hbf - Karlsruhe Hbf - Offenburg - Freiburg (Breisgau) Hbf - Basel SBB - Zürich HB<br><br>NJ 409: Zürich HB - Basel SBB - Freiburg (Breisgau) Hbf - Offenburg - Karlsruhe Hbf - Leipzig Hbf - Halle/Saale Hbf - Lutherstadt Wittenberg Hbf - Berlin Südkreuz - Berlin Hbf",
+		"Countries": "DE, CH",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 420 + NJ 421",
+		"Name": "",
+		"Itinerary": "Innsbruck – Amsterdam",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=45\">View details</a>",
+		"Route": "NJ 420: Innsbruck Hbf - Jenbach - Wörgl Hbf - Kufstein - Rosenheim - München Hbf - Augsburg Hbf - Nürnberg Hbf - Würzburg Hbf - Kassel-Wilhelmshöhe - Hamm (Westf) Hbf - Münster (Westf) Hbf - Deventer - Amersfoort Centraal - Amsterdam Centraal<br><br>NJ 421: Amsterdam Centraal - Amersfoort Centraal - Deventer - Münster (Westf) Hbf - Hamm (Westf) Hbf - Kassel-Wilhelmshöhe - Würzburg Hbf - Nürnberg Hbf - Augsburg Hbf - München Hbf - Rosenheim - Kufstein - Wörgl Hbf - Jenbach - Innsbruck Hbf",
+		"Countries": "DE, AT, NL",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 424 + NJ 425",
+		"Name": "",
+		"Itinerary": "Berlin – Bruxelles / Brussel",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=43\">View details</a>",
+		"Route": "NJ 424: Berlin Hbf - Berlin Südkreuz - Halle/Saale Hbf - Erfurt - Koblenz Hbf - Bonn Hbf - Aachen Hbf - Liège-Guillemins - Bruxelles-Nord / Brussel-Noord - Bruxelles-Midi / Brussel-Zuid<br><br>NJ 425: Bruxelles-Midi / Brussel-Zuid - Bruxelles-Nord / Brussel-Noord - Liège-Guillemins - Aachen Hbf - Bonn Hbf - Koblenz Hbf - Erfurt - Halle/Saale Hbf - Berlin Südkreuz - Berlin Hbf",
+		"Countries": "DE, BE",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 446 + NJ 447",
+		"Name": "",
+		"Itinerary": "Wien – Bregenz",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=229\">View details</a>",
+		"Route": "NJ 446: Wien Hbf - Wien Meidling - St. Pölten Hbf - Amstetten (NÖ) - Linz Hbf - Wels Hbf - Innsbruck Hbf - St. Anton am Arlberg - Bludenz - Feldkirch - Dornbirn - Bregenz<br><br>NJ 447: Bregenz - Dornbirn - Feldkirch - St. Anton am Arlberg - Innsbruck Hbf - Linz Hbf - Amstetten (NÖ) - St. Pölten Hbf - Wien Meidling - Wien Hbf",
+		"Countries": "AT, CH",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 456 + NJ 457",
+		"Name": "",
+		"Itinerary": "Graz – Berlin",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=50\">View details</a>",
+		"Route": "NJ 456: Graz Hbf - Bruck an der Mur - Wiener Neustadt Hbf - Wien Hbf - Brno hl.n. - Dresden Hbf - Dresden Neustadt - Berlin Südkreuz - Berlin Hbf<br><br>NJ 457: Berlin Hbf - Berlin Südkreuz - Dresden Neustadt - Dresden Hbf - Děčín hl.n. - Ústí n.L.hl.n. - Praha-Holešovice - Wien Hbf - Wien Meidling - Wiener Neustadt Hbf - Bruck an der Mur - Graz Hbf",
+		"Countries": "DE, CZ, AT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 464 + NJ 465",
+		"Name": "",
+		"Itinerary": "Graz – Zürich",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=235\">View details</a>",
+		"Route": "NJ 464: Graz Hbf - Bruck an der Mur - St. Michael (Obersteiermark) - Selzthal - Innsbruck Hbf - St. Anton am Arlberg - Bludenz - Feldkirch - Buchs (SG) - Zürich HB<br><br>NJ 465: Zürich HB - Buchs (SG) - Feldkirch - Bludenz - St. Anton am Arlberg - Innsbruck Hbf - St. Michael (Obersteiermark) - Bruck an der Mur - Graz Hbf",
+		"Countries": "AT, LI, CH",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 468 + NJ 469",
+		"Name": "",
+		"Itinerary": "Wien – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=52\">View details</a>",
+		"Route": "NJ 468: Wien Hbf - Wien Meidling - St. Pölten Hbf - Linz Hbf - Salzburg Hbf - Rosenheim - München Ost - Paris Est<br><br>NJ 469: Paris Est - München Ost - Rosenheim - Salzburg Hbf - Linz Hbf - St. Pölten Hbf - Wien Meidling - Wien Hbf",
+		"Countries": "DE, AT, FR",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 470 + NJ 471",
+		"Name": "",
+		"Itinerary": "Zürich – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=5\">View details</a>",
+		"Route": "NJ 470: Zürich HB - Basel SBB - Basel Bad Bf - Freiburg (Breisgau) Hbf - Offenburg - Karlsruhe Hbf - Göttingen - Hannover Hbf - Bremen Hbf - Hamburg Hbf - Hamburg Altona<br><br>NJ 471: Hamburg Altona - Hamburg Hbf - Bremen Hbf - Hannover Hbf - Göttingen - Karlsruhe Hbf - Offenburg - Freiburg (Breisgau) Hbf - Basel Bad Bf - Basel SBB - Zürich HB",
+		"Countries": "DE, CH",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ÖBB NJ 490 + NJ 491",
+		"Name": "",
+		"Itinerary": "Wien – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=17\">View details</a>",
+		"Route": "NJ 490: Wien Hbf - Wien Meidling - St. Pölten Hbf - Linz Hbf - Passau Hbf - Regensburg Hbf - Nürnberg Hbf - Göttingen - Hannover Hbf - Hamburg Harburg - Hamburg Hbf - Hamburg Altona<br><br>NJ 491: Hamburg Altona - Hamburg Hbf - Hannover Hbf - Göttingen - Regensburg Hbf - Passau Hbf - Linz Hbf - St. Pölten Hbf - Wien Meidling - Wien Hbf",
+		"Countries": "DE, AT",
+		"Operator": "ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.nightjet.com/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "OTE 141 + 154",
+		"Name": "",
+		"Itinerary": "Villach – Edirne",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=114\">View details</a>",
+		"Route": "141: Villach Hbf - non-stop - Edirne<br><br>154: Edirne - non-stop - Villach Hbf",
+		"Countries": "AT, SI, HR, RS, BG, TR",
+		"Operator": "OTE",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.optimatours.de/timetable\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP EN 443 / IC 406 + IC 407 / EN 442",
+		"Name": "Chopin",
+		"Itinerary": "Praha – Warszawa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=9\">View details</a>",
+		"Route": "EN 443 / IC 406: Praha hl.n. - Pardubice hl.n. - Olomouc hl.n. - Katowice - Trzebinia - Kraków Gł. - Warszawa Centralna<br><br>IC 407 / EN 442: Warszawa Wschodnia - Warszawa Centralna - Kraków Gł. - Trzebinia - Katowice - Rybnik - Olomouc hl.n. - Pardubice hl.n. - Praha hl.n.",
+		"Countries": "CZ, PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP IC 38172 + IC 83172",
+		"Name": "Przemyślanin",
+		"Itinerary": "Przemyśl – Świnoujście",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=126\">View details</a>",
+		"Route": "IC 38172: Przemyśl Gł. - Rzeszow Gł. - Tarnow - Kraków Gł. - Katowice - Poznań Gł. - Krzyz - Szczecin Gł. - Świnoujście<br><br>IC 83172: Świnoujście - Szczecin Gł. - Krzyz - Poznań Gł. - Leszno - Wrocław Gł. - Katowice - Kraków Gł. - Tarnow - Rzeszow Gł. - Przemyśl Gł.",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP IC 38192 + IC 83192",
+		"Name": "Podhalanin",
+		"Itinerary": "Zakopane – Szczecin",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=122\">View details</a>",
+		"Route": "IC 38192: Zakopane - Bielsko-Biała Gł. - Katowice Ligota - Gliwice - Poznań Gł. - Szczecin Gł.<br><br>IC 83192: Szczecin Gł. - Poznań Gł. - Bielsko-Biała Gł. - Zakopane",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 16190 + TLK 61190",
+		"Name": "Karkonosze",
+		"Itinerary": "Warszawa – Jelenia Góra",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=121\">View details</a>",
+		"Route": "TLK 16190: Warszawa Wschodnia - Warszawa Centralna - Warszawa Zachodnia  - Katowice - Wrocław Gł. - Jelenia Góra<br><br>TLK 61190: Jelenia Góra - Wrocław Gł. - Opole Gł. - Warszawa Zachodnia  - Warszawa Centralna",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 18170 + TLK 81170",
+		"Name": "Uznam",
+		"Itinerary": "Warszawa – Świnoujście",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=128\">View details</a>",
+		"Route": "TLK 18170: Warszawa Centralna - Warszawa Zachodnia  - Szczecin Gł. - Świnoujście<br><br>TLK 81170: Świnoujście - Szczecin Gł. - Kostrzyn - Warszawa Zachodnia  - Warszawa Centralna",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 35170 + TLK 53170",
+		"Name": "Karpaty",
+		"Itinerary": "Zakopane – Gdynia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=129\">View details</a>",
+		"Route": "TLK 35170: Zakopane - Kraków Gł. - Częstochowa - Warszawa Centralna - Ciechanow - Tczew - Gdańsk Gł. - Gdynia Gł.<br><br>TLK 53170: Gdynia Gł. - Gdańsk Gł. - Tczew - Ciechanow - Warszawa Gdanska - Kraków Gł. - Zakopane",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 35172 + TLK 53172",
+		"Name": "Rozewie",
+		"Itinerary": "Kraków – Gdynia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=10\">View details</a>",
+		"Route": "TLK 35172: Kraków Gł. - Trzebinia - Katowice - Gliwice - Opole Gł. - Wrocław Gł. - Gdańsk Gł. - Gdynia Gł.<br><br>TLK 53172: Gdynia Gł. - Gdańsk Gł. - Bydgoszcz - Wrocław Gł. - Opole Gł. - Gliwice - Katowice - Trzebinia - Kraków Gł.",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 35190 + TLK 53190",
+		"Name": "Korsarz",
+		"Itinerary": "Kraków – Łeba",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=125\">View details</a>",
+		"Route": "TLK 35190: Kraków Gł. - Częstochowa - Łódź Kaliska - Toruń Gł. - Bydgoszcz - Łeba<br><br>TLK 53190: Łeba - Gdynia Gł. - Gdańsk Gł. - Tczew - Bydgoszcz - Łódź Kaliska - Częstochowa - Kraków Gł.",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 38170 + TLK 83170",
+		"Name": "Ustronie",
+		"Itinerary": "Kraków – Kołobrzeg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=138\">View details</a>",
+		"Route": "TLK 38170: Kraków Gł. - Kielce - Radom - Gdańsk Gł. - Gdynia Gł. - Słupsk - Koszalin - Kołobrzeg<br><br>TLK 83170: Kołobrzeg - Koszalin - Słupsk - Gdynia Gł. - Gdańsk Gł. - Warszawa Wschodnia - Radom - Kielce - Kraków Gł.",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 404 + TLK 405",
+		"Name": "Pirat",
+		"Itinerary": "Kołobrzeg – Zebrzydowice",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=136\">View details</a>",
+		"Route": "TLK 404: Kołobrzeg - Poznań Gł. - Oświęcim - Zebrzydowice<br><br>TLK 405: Zebrzydowice - Oświęcim - Gliwice - Kołobrzeg",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP TLK 46174/38174 + TLK 83174/64174",
+		"Name": "Wolin",
+		"Itinerary": "Bielsko-Biała – Świnoujście",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=137\">View details</a>",
+		"Route": "TLK 46174/38174: Bielsko-Biała Gł. - Rybnik - Opole Gł. - Kostrzyn - Szczecin Gł. - Świnoujście<br><br>TLK 83174/64174: Świnoujście - Szczecin Gł. - Kostrzyn - Zielona Góra Gł. - Rybnik - Bielsko-Biała Gł.",
+		"Countries": "PL",
+		"Operator": "PKP",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP/ČD TLK 402/54070 + R 403",
+		"Name": "Wydmy",
+		"Itinerary": "Łeba – Bohumín",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=124\">View details</a>",
+		"Route": "TLK 402/54070: Łeba - Gdynia Gł. - Tczew - Tczew - Bydgoszcz - Toruń Gł. - Katowice - Bohumín<br><br>R 403: Bohumín - Katowice - Częstochowa - Łódź Kaliska - Gdynia Gł. - Łeba",
+		"Countries": "PL",
+		"Operator": "PKP, ČD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "PKP/ÖBB EN 406 + EN 407",
+		"Name": "",
+		"Itinerary": "München – Warszawa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=116\">View details</a>",
+		"Route": "EN 406: München Hbf - München Ost - Salzburg Hbf - Linz Hbf - Wien Hbf - Břeclav - Kraków Gł. - Warszawa Gdanska - Warszawa Wschodnia<br><br>EN 407: Warszawa Wschodnia - Warszawa Centralna - Warszawa Zachodnia  - Kraków Gł. - Wien Hbf - Linz Hbf - Salzburg Hbf - München Ost - München Hbf",
+		"Countries": "AT, PL, CZ",
+		"Operator": "PKP, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.intercity.pl/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "RJ 1020 + 1021",
+		"Name": "",
+		"Itinerary": "Chop – Praha",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=7\">View details</a>",
+		"Route": "1020: Chop - Košice - Poprad Tatry - Pardubice hl.n. - Praha hl.n.<br><br>1021: Praha hl.n. - Pardubice hl.n. - Ostrava hl.n. - Poprad Tatry - Košice - Chop",
+		"Countries": "SK, CZ",
+		"Operator": "RJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://regiojet.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "RJ 1038 + 1039",
+		"Name": "",
+		"Itinerary": "Przemyśl – Praha",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=261\">View details</a>",
+		"Route": "1038: Przemyśl Gł. - Kraków Gł. - Olomouc hl.n. - Praha hl.n.<br><br>1039: Praha hl.n. - Pardubice hl.n. - Olomouc hl.n. - Kraków Gł. - Przemyśl Gł.",
+		"Countries": "PL, CZ",
+		"Operator": "RJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://regiojet.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ 1 + 2",
+		"Name": "",
+		"Itinerary": "Stockholm – Malmö",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=62\">View details</a>",
+		"Route": "1: Stockholm C - Norrköping C - Hässleholm C - Lund C - Malmö C<br><br>2: Malmö C - Lund C - Helsingborg C - Hässleholm C - Stockholm C",
+		"Countries": "SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.se/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ 70 (D) + 71 (S)",
+		"Name": "",
+		"Itinerary": "Stockholm – Duved",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=63\">View details</a>",
+		"Route": "70 (D): Stockholm C - Arlanda - Uppsala C - Gävle C - Östersund C - Åre - Duved<br><br>71 (S): Duved - Åre - Östersund C - Sundsvall C - Arlanda - Stockholm C",
+		"Countries": "SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.se/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ 70 (U) + 77 (S)",
+		"Name": "",
+		"Itinerary": "Stockholm – Umeå",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=88\">View details</a>",
+		"Route": "70 (U): Stockholm C - Arlanda - Uppsala C - Gävle C - Härnösand - Örnsköldsvik C - Umeå C<br><br>77 (S): Umeå C - Örnsköldsvik C - Härnösand - Sundsvall C - Arlanda - Stockholm C",
+		"Countries": "SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.se/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ 71 (G) + 74 (D)",
+		"Name": "",
+		"Itinerary": "Duved – Göteborg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=64\">View details</a>",
+		"Route": "71 (G): Duved - Åre - Östersund C - Sundsvall C - Västerås C - Örebro C - Göteborg C<br><br>74 (D): Göteborg C - Örebro C - Västerås C - Östersund C - Åre - Duved",
+		"Countries": "SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.se/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ EN 345 + EN 346",
+		"Name": "",
+		"Itinerary": "Stockholm – Berlin",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=78\">View details</a>",
+		"Route": "EN 345: Stockholm C - Norrköping C - Linköping C - Nässjö C - Alvesta - Hässleholm C - Lund C - Malmö C - Kastrup Lufthavn - Padborg - Hamburg Hbf - Berlin Hbf<br><br>EN 346: Berlin Hbf - Hamburg Hbf - Padborg - Kastrup Lufthavn - Malmö C - Lund C - Hässleholm C - Alvesta - Nässjö C - Linköping C - Norrköping C - Stockholm C",
+		"Countries": "DE, DK, SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.se/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ Nattåg 91 + Nattåg 92",
+		"Name": "",
+		"Itinerary": "Luleå – Stockholm",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=81\">View details</a>",
+		"Route": "Nattåg 91: Luleå C - Boden C - Umeå C - Örnsköldsvik C - Härnösand - Sundsvall C - Gävle C - Uppsala C - Arlanda - Stockholm C<br><br>Nattåg 92: Stockholm C - Arlanda - Uppsala C - Gävle C - Örnsköldsvik C - Umeå C - Boden C - Luleå C",
+		"Countries": "SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vy.se/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ Nattåg 93 (L) + Nattåg 94 (L)",
+		"Name": "",
+		"Itinerary": "Luleå – Stockholm",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=68\">View details</a>",
+		"Route": "Nattåg 93 (L): Luleå C - Boden C - Umeå C - Örnsköldsvik C - Sundsvall C - Gävle C - Uppsala C - Arlanda - Stockholm C<br><br>Nattåg 94 (L): Stockholm C - Arlanda - Uppsala C - Gävle C - Sundsvall C - Härnösand - Örnsköldsvik C - Boden C - Luleå C",
+		"Countries": "SE",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vy.se/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJ Nattåg 93 (N) + Nattåg 94 (N)",
+		"Name": "",
+		"Itinerary": "Narvik – Stockholm",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=66\">View details</a>",
+		"Route": "Nattåg 93 (N): Narvik - Kiruna / Giron - Gällivare C - Boden C - Umeå C - Sundsvall C - Gävle C - Uppsala C - Arlanda - Stockholm C<br><br>Nattåg 94 (N): Stockholm C - Arlanda - Uppsala C - Gävle C - Sundsvall C - Härnösand - Örnsköldsvik C - Boden C - Gällivare C - Kiruna / Giron - Narvik",
+		"Countries": "SE, NO",
+		"Operator": "SJ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vy.se/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJN 405 + 406",
+		"Name": "F6",
+		"Itinerary": "Oslo – Trondheim",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=70\">View details</a>",
+		"Route": "405: Oslo S - Hamar - Lillehammer - Trondheim<br><br>406: Trondheim - Lillehammer - Hamar - Oslo S",
+		"Countries": "NO",
+		"Operator": "SJN",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.no/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SJN 475 + 476",
+		"Name": "F7",
+		"Itinerary": "Trondheim – Bodø",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=71\">View details</a>",
+		"Route": "475: Trondheim - Levanger - Steinkjer - Mo i Rana - Bodø<br><br>476: Bodø - Mo i Rana - Steinkjer - Levanger - Trondheim",
+		"Countries": "NO",
+		"Operator": "SJN",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sj.no/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 3731 + IC Nuit 3740",
+		"Name": "Le Pyrénéen",
+		"Itinerary": "Tarbes – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=111\">View details</a>",
+		"Route": "IC Nuit 3731: Tarbes - Lourdes - Pau - Bayonne - Dax - Paris Austerlitz<br><br>IC Nuit 3740: Paris Austerlitz - Dax - Bayonne - Pau - Lourdes - Tarbes",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 3750 + IC Nuit 3751",
+		"Name": "",
+		"Itinerary": "Toulouse – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=264\">View details</a>",
+		"Route": "IC Nuit 3750: Toulouse Matabiau - Montauban Ville Bourbon - Fleury-les-Aubrais (Orléans) - Paris Austerlitz<br><br>IC Nuit 3751: Paris Austerlitz - Fleury-les-Aubrais (Orléans) - Montauban Ville Bourbon - Toulouse Matabiau",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 3754 (Sun) + IC Nuit 3755 (Sun)",
+		"Name": "L'Occitan",
+		"Itinerary": "Albi – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=109\">View details</a>",
+		"Route": "IC Nuit 3754 (Sun): Albi Ville - Rodez - Figeac - St-Denis-Pre-Martel - Paris Austerlitz<br><br>IC Nuit 3755 (Sun): Paris Austerlitz - St-Denis-Pre-Martel - Figeac - Rodez - Albi Ville",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 3754 + IC Nuit 3755",
+		"Name": "L'Occitan",
+		"Itinerary": "Rodez – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=119\">View details</a>",
+		"Route": "IC Nuit 3754: Rodez - Figeac - St-Denis-Pre-Martel - Paris Austerlitz<br><br>IC Nuit 3755: Paris Austerlitz - St-Denis-Pre-Martel - Figeac - Rodez",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 3789 + IC Nuit 3790",
+		"Name": "",
+		"Itinerary": "Paris – Aurillac",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=262\">View details</a>",
+		"Route": "IC Nuit 3789: Paris Austerlitz - St-Denis-Pre-Martel - Bretenoux Biars - Laroquebrou / Laròcabrau - Aurillac<br><br>IC Nuit 3790: Aurillac - Laroquebrou / Laròcabrau - Bretenoux Biars - St-Denis-Pre-Martel - Paris Austerlitz",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 3970 + IC Nuit 3971",
+		"Name": "Le Pyrénéen",
+		"Itinerary": "Latour-de-Carol – Paris",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=112\">View details</a>",
+		"Route": "IC Nuit 3970: Latour-de-Carol / La Tor de Querol - Pamiers - Fleury-les-Aubrais (Orléans) - Paris Austerlitz<br><br>IC Nuit 3971: Paris Austerlitz - Fleury-les-Aubrais (Orléans) - Pamiers - Latour-de-Carol / La Tor de Querol",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 5737 + IC Nuit 5738",
+		"Name": "",
+		"Itinerary": "Paris – Cerbère",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=110\">View details</a>",
+		"Route": "IC Nuit 5737: Paris Austerlitz - Nîmes - Montpellier Saint-Roch - Beziers - Narbonne - Perpignan - Cerbère<br><br>IC Nuit 5738: Cerbère - Perpignan - Narbonne - Beziers - Montpellier Saint-Roch - Nîmes - Paris Austerlitz",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 5781 + IC Nuit 5772",
+		"Name": "Le Train Bleu",
+		"Itinerary": "Paris – Nice",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=108\">View details</a>",
+		"Route": "IC Nuit 5781: Paris Austerlitz - Marseille Saint-Charles - Toulon - Cannes - Nice Ville<br><br>IC Nuit 5772: Nice Ville - Cannes - Toulon - Marseille Saint-Charles - Paris Austerlitz",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "SNCF IC Nuit 5787 + IC Nuit 5792",
+		"Name": "",
+		"Itinerary": "Paris – Briançon",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=107\">View details</a>",
+		"Route": "IC Nuit 5787: Paris Austerlitz - Crest - Gap - Briançon<br><br>IC Nuit 5792: Briançon - Gap - Crest - Paris Austerlitz",
+		"Countries": "FR",
+		"Operator": "SNCF",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.sncf-connect.com/en-en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ST 300 + 301",
+		"Name": "Berlinaren",
+		"Itinerary": "Stockholm – Berlin",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=77\">View details</a>",
+		"Route": "300: Stockholm C - Norrköping C - Linköping C - Nässjö C - Alvesta - Hässleholm C - Lund C - Malmö C - København Ørestad - Hamburg Hbf - Berlin Hbf<br><br>301: Berlin Hbf - Hamburg Hbf - København Ørestad - Malmö C - Lund C - Hässleholm C - Alvesta - Nässjö C - Linköping C - Norrköping C - Stockholm C",
+		"Countries": "DE, DK, SE",
+		"Operator": "ST",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.snalltaget.se/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ST 304 + 305",
+		"Name": "",
+		"Itinerary": "Innsbruck – Malmö",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=73\">View details</a>",
+		"Route": "304: Innsbruck Hbf - Jenbach - Wörgl Hbf - Kitzbühel - Salzburg Hbf - München Ost - Hamburg Hbf - Kolding - Odense - Høje Taastrup - Malmö C<br><br>305: Malmö C - Høje Taastrup - Odense - Kolding - Hamburg Hbf - München Ost - Salzburg Hbf - Kitzbühel - Wörgl Hbf - Jenbach - Innsbruck Hbf",
+		"Countries": "SE, DK, DE, AT",
+		"Operator": "ST",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.snalltaget.se/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ST 3900 + 3901",
+		"Name": "",
+		"Itinerary": "Malmö – Storlien",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=79\">View details</a>",
+		"Route": "3900: Malmö C - Lund C - Hässleholm C - Alvesta - Nässjö C - Linköping C - Norrköping C - Stockholm C - Uppsala C - Östersund C - Åre - Duved - Storlien<br><br>3901: Storlien - Duved - Åre - Östersund C - Uppsala C - Stockholm C - Norrköping C - Alvesta - Hässleholm C - Lund C - Malmö C",
+		"Countries": "SE",
+		"Operator": "ST",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.snalltaget.se/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ST 3904 + 3905",
+		"Name": "",
+		"Itinerary": "Malmö – Duved",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=80\">View details</a>",
+		"Route": "3904: Malmö C - Lund C - Hässleholm C - Alvesta - Nässjö C - Linköping C - Norrköping C - Östersund C - Åre - Duved<br><br>3905: Duved - Åre - Östersund C - Linköping C - Nässjö C - Alvesta - Hässleholm C - Lund C - Malmö C",
+		"Countries": "SE",
+		"Operator": "ST",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.snalltaget.se/en\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 22001 + 12002",
+		"Name": "Ankara Ekspresi",
+		"Itinerary": "Ankara – İstanbul",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=31\">View details</a>",
+		"Route": "22001: Ankara - Eskişehir - İstanbul Pendik - İstanbul Sögütlücesme - İstanbul Halkalı<br><br>12002: İstanbul Halkalı - İstanbul Sögütlücesme - İstanbul Pendik - İzmit - Ankara",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 22006 + 32005",
+		"Name": "Izmir Mavi",
+		"Itinerary": "Ankara – İzmir",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=30\">View details</a>",
+		"Route": "22006: Ankara - Eskişehir - Balıkesir - Manisa - İzmir Çiğli - İzmir Basmane<br><br>32005: İzmir Basmane - İzmir Çiğli - Manisa - Balıkesir - Eskişehir - Ankara",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 22010 + 42009",
+		"Name": "Dogu Ekspresi",
+		"Itinerary": "Ankara – Kars",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=247\">View details</a>",
+		"Route": "22010: Ankara - Kırıkkale - Kayseri - Sivas - Erzincan - Erzurum - Kars<br><br>42009: Kars - Erzurum - Erzincan - Sivas - Kayseri - Kırıkkale - Ankara",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 22012 + 52011",
+		"Name": "Vangölü Ekspresi",
+		"Itinerary": "Ankara – Tatvan",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=243\">View details</a>",
+		"Route": "22012: Ankara - Kırıkkale - Kayseri - Sivas - Malatya - Elazığ - Mûş - Tatvan<br><br>52011: Tatvan - Mûş - Elazığ - Malatya - Sivas - Kayseri - Kırıkkale - Ankara",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 22014 + 52013",
+		"Name": "Güney Ekspresi",
+		"Itinerary": "Ankara – Kurtalan",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=245\">View details</a>",
+		"Route": "22014: Ankara - Kırıkkale - Kayseri - Sivas - Diyarbakır - Batman - Kurtalan<br><br>52013: Kurtalan - Batman - Diyarbakır - Sivas - Kayseri - Kırıkkale - Ankara",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 22018 + 52019",
+		"Name": "4 Eylül Mavi",
+		"Itinerary": "Ankara – Malatya",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=246\">View details</a>",
+		"Route": "22018: Ankara - Kırıkkale - Sivas - Malatya<br><br>52019: Malatya - Sivas - Kayseri - Kırıkkale - Ankara",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD 32007 + 72008",
+		"Name": "Konya Mavi",
+		"Itinerary": "İzmir – Konya",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=248\">View details</a>",
+		"Route": "32007: İzmir Basmane - İzmir Çiğli - Manisa - Afyon A Çetinkaya - Konya<br><br>72008: Konya - Afyon A Çetinkaya - Manisa - İzmir Çiğli - İzmir Basmane",
+		"Countries": "TR",
+		"Operator": "TCDD",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.tcddtasimacilik.gov.tr/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD/BDŽ 12503/492 + 493/12504",
+		"Name": "Balkan Express",
+		"Itinerary": "İstanbul – Sofia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=27\">View details</a>",
+		"Route": "12503/492: İstanbul Halkalı - Edirne - Kapıkule - Svilengrad - Dimitrovgrad - Plovdiv - Sofia<br><br>493/12504: Sofia - Plovdiv - Dimitrovgrad - Svilengrad - Kapıkule - Edirne - İstanbul Halkalı",
+		"Countries": "BG, TR",
+		"Operator": "TCDD, BDŽ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.bdz.bg/en/a/sofia-istanbul-sofia\">Book tickets</a>"
+	},
+	{
+		"Night Train": "TCDD/BDŽ/CFR 12503/460 + 461/12504",
+		"Name": "Bosphor Express",
+		"Itinerary": "İstanbul – București",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=28\">View details</a>",
+		"Route": "12503/460: İstanbul Halkalı - Edirne - Kapıkule - Svilengrad - Dimitrovgrad - Stara Zagora - Veliko Tarnovo - Gorna Oryahovitsa - Ruse - Giurgiu Nord - București Nord<br><br>461/12504: București Nord - Giurgiu Nord - Ruse - Gorna Oryahovitsa - Veliko Tarnovo - Stara Zagora - Dimitrovgrad - Svilengrad - Kapıkule - Edirne - İstanbul Halkalı",
+		"Countries": "RO, BG, TR",
+		"Operator": "TCDD, BDŽ, CFR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://bileteinternationale.cfrcalatori.ro/en/booking/search\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UEX 1856 + 1857",
+		"Name": "",
+		"Itinerary": "München – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=254\">View details</a>",
+		"Route": "1856: München Ost - Augsburg Hbf - Hannover Hbf - Lüneburg - Hamburg Hbf - Hamburg Altona<br><br>1857: Hamburg Altona - Hamburg Hbf - Hannover Hbf - Augsburg Hbf - München Ost",
+		"Countries": "DE",
+		"Operator": "UEX",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://buchung.urlaubs-express.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UEX 1858 + 1859",
+		"Name": "",
+		"Itinerary": "Basel – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=255\">View details</a>",
+		"Route": "1858: Lörrach - Freiburg (Breisgau) Hbf - Karlsruhe Hbf - Hannover Hbf - Lüneburg - Hamburg Hbf - Hamburg Altona<br><br>1859: Hamburg Altona - Hamburg Hbf - Hannover Hbf - Karlsruhe Hbf - Freiburg (Breisgau) Hbf - Lörrach",
+		"Countries": "DE",
+		"Operator": "UEX",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://buchung.urlaubs-express.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UEX 302/322 + 303/323",
+		"Name": "",
+		"Itinerary": "Innsbruck – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=253\">View details</a>",
+		"Route": "302/322: Innsbruck Hbf - Jenbach - Kufstein - München Ost - Augsburg Hbf - Hannover Hbf - Hamburg Hbf - Hamburg Altona<br><br>303/323: Hamburg Altona - Hamburg Hbf - Hannover Hbf - Göttingen - Augsburg Hbf - München Ost - Kufstein - Jenbach - Innsbruck Hbf",
+		"Countries": "DE",
+		"Operator": "UEX",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://buchung.urlaubs-express.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UEX 320/324 + 321/325",
+		"Name": "",
+		"Itinerary": "Villach – Hamburg",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=252\">View details</a>",
+		"Route": "320/324: Villach Hbf - Salzburg Hbf - München Ost - Göttingen - Hannover Hbf - Hamburg Hbf - Hamburg Altona<br><br>321/325: Hamburg Altona - Hamburg Hbf - Hannover Hbf - Göttingen - Fulda - München Ost - Salzburg Hbf - Villach Hbf",
+		"Countries": "DE",
+		"Operator": "UEX",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://buchung.urlaubs-express.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UEX 332/1372 + 333/1373",
+		"Name": "",
+		"Itinerary": "Innsbruck – Düsseldorf",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=256\">View details</a>",
+		"Route": "332/1372: Innsbruck Hbf - Jenbach - München Ost - Augsburg Hbf - Gießen - Siegen - Siegburg (Bonn) - Köln Messe/Deutz - Düsseldorf Hbf<br><br>333/1373: Düsseldorf Hbf - Köln Messe/Deutz - Siegburg (Bonn) - Siegen - Aschaffenburg - Augsburg Hbf - München Ost - Jenbach - Innsbruck Hbf",
+		"Countries": "DE",
+		"Operator": "UEX",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://buchung.urlaubs-express.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UEX 334/1374 + 335/1375",
+		"Name": "",
+		"Itinerary": "Villach – Düsseldorf",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=257\">View details</a>",
+		"Route": "334/1374: Villach Hbf - Salzburg Hbf - München Ost - Aschaffenburg - Gießen - Siegen - Siegburg (Bonn) - Köln Messe/Deutz - Düsseldorf Hbf<br><br>335/1375: Düsseldorf Hbf - Köln Messe/Deutz - Siegen - Aschaffenburg - München Ost - Salzburg Hbf - Villach Hbf",
+		"Countries": "DE",
+		"Operator": "UEX",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://buchung.urlaubs-express.de/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 001 D + 001 L",
+		"Name": "",
+		"Itinerary": "Kharkiv – Ivano-Frankivsk",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=164\">View details</a>",
+		"Route": "001 D: Kharkiv - Poltava - Myrhorod - Kyiv Pasazhyrskyi - Lviv - Ivano-Frankivsk<br><br>001 L: Ivano-Frankivsk - Lviv - Kyiv Pasazhyrskyi - Myrhorod - Poltava - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 003 + 004",
+		"Name": "",
+		"Itinerary": "Uzhhorod – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=220\">View details</a>",
+		"Route": "003: Uzhhorod - Mukacheve - Stryj - Lviv - Dnipro Holovny - Zaporizhzhia 1<br><br>004: Zaporizhzhia 1 - Dnipro Holovny - Lviv - Stryj - Mukacheve - Uzhhorod",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 006 L + 006 P",
+		"Name": "",
+		"Itinerary": "Yasinia – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=221\">View details</a>",
+		"Route": "006 L: Yasinia - Vorokhta - Ivano-Frankivsk - Lviv - Dnipro Holovny - Zaporizhzhia 1<br><br>006 P: Zaporizhzhia 1 - Dnipro Holovny - Lviv - Ivano-Frankivsk - Vorokhta - Yasinia",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 007 K + 008 L",
+		"Name": "",
+		"Itinerary": "Kyiv – Chernivtsi",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=168\">View details</a>",
+		"Route": "007 K: Kyiv Pasazhyrskyi - Lviv - Ivano-Frankivsk - Chernivtsi<br><br>008 L: Chernivtsi - Ivano-Frankivsk - Lviv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 007 O/059 O + 008 Š/060 Š",
+		"Name": "",
+		"Itinerary": "Kharkiv – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=154\">View details</a>",
+		"Route": "007 O/059 O: Kharkiv - Poltava - Kremenchuk - Odesa Holovna<br><br>008 Š/060 Š: Odesa Holovna - Kremenchuk - Poltava - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 009 / 010",
+		"Name": "",
+		"Itinerary": "Kyiv – Budapest",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=183\">View details</a>",
+		"Route": "009: Kyiv Pasazhyrskyi - Lviv - Mukacheve - Chop - Nyíregyháza - Szolnok - Budapest Keleti<br><br>010: Budapest Keleti - Szolnok - Debrecen - Chop - Mukacheve - Lviv - Kyiv Pasazhyrskyi",
+		"Countries": "HU, UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 012 L + 012 Š",
+		"Name": "",
+		"Itinerary": "Lviv – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=191\">View details</a>",
+		"Route": "012 L: Lviv - Ternopil - Khmelnytskyi - Odesa Holovna<br><br>012 Š: Odesa Holovna - Zhmerynka - Ternopil - Lviv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 013 K + 013 L",
+		"Name": "",
+		"Itinerary": "Kyiv – Solotvyno",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=203\">View details</a>",
+		"Route": "013 K: Kyiv Pasazhyrskyi - Fastiv - Vinnytsia - Khmelnytskyi - Ternopil - Lviv - Stryj - Mukacheve - Solotvyno<br><br>013 L: Solotvyno - Stryj - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 015 + 016",
+		"Name": "",
+		"Itinerary": "Kharkiv – Yasinia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=150\">View details</a>",
+		"Route": "015: Kharkiv - Poltava - Myrhorod - Lubny - Kyiv Pasazhyrskyi - Lviv - Ivano-Frankivsk - Vorokhta - Yasinia<br><br>016: Yasinia - Vorokhta - Ivano-Frankivsk - Lviv - Kyiv Pasazhyrskyi - Lubny - Myrhorod - Poltava - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 017 O/045 D + 017 L/045 L",
+		"Name": "",
+		"Itinerary": "Kharkiv – Uzhhorod",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=162\">View details</a>",
+		"Route": "017 O/045 D: Kharkiv - Poltava - Myrhorod - Lubny - Kyiv Pasazhyrskyi - Stryj - Mukacheve - Uzhhorod<br><br>017 L/045 L: Uzhhorod - Mukacheve - Stryj - Lviv - Kyiv Pasazhyrskyi - Lubny - Myrhorod - Poltava - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 019 + 020",
+		"Name": "",
+		"Itinerary": "Kyiv – Chelm",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=153\">View details</a>",
+		"Route": "019: Kyiv Pasazhyrskyi - Kovel - Chelm<br><br>020: Chelm - Kovel - Kyiv Pasazhyrskyi",
+		"Countries": "UA, PL",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 021 + 022",
+		"Name": "",
+		"Itinerary": "Kharkiv – Lviv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=156\">View details</a>",
+		"Route": "021: Kharkiv - Poltava - Myrhorod - Lubny - Kyiv Pasazhyrskyi - Vinnytsia - Khmelnytskyi - Ternopil - Lviv<br><br>022: Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Kyiv Pasazhyrskyi - Lubny - Myrhorod - Poltava - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 023 + 024",
+		"Name": "",
+		"Itinerary": "Kyiv – Chelm",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=152\">View details</a>",
+		"Route": "023: Kyiv Pasazhyrskyi - Rivne - Kovel - Chelm<br><br>024: Chelm - Kovel - Rivne - Kyiv Pasazhyrskyi",
+		"Countries": "UA, PL",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 029 K + 029 L",
+		"Name": "",
+		"Itinerary": "Kyiv – Uzhhorod",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=186\">View details</a>",
+		"Route": "029 K: Kyiv Pasazhyrskyi - Lviv - Mukacheve - Uzhhorod<br><br>029 L: Uzhhorod - Mukacheve - Lviv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 032 D + 032 P",
+		"Name": "",
+		"Itinerary": "Przemyśl – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=155\">View details</a>",
+		"Route": "032 D: Przemyśl Gł. - Lviv - Oleksandriia - Dnipro Holovny - Zaporizhzhia 1<br><br>032 P: Zaporizhzhia 1 - Dnipro Holovny - Oleksandriia - Lviv - Przemyśl Gł.",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 036 Š + 036 L",
+		"Name": "",
+		"Itinerary": "Odesa – Przemyśl",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=147\">View details</a>",
+		"Route": "036 Š: Odesa Holovna - Zhmerynka - Khmelnytskyi - Ternopil - Lviv - Przemyśl Gł.<br><br>036 L: Przemyśl Gł. - Lviv - Ternopil - Khmelnytskyi - Zhmerynka - Odesa Holovna",
+		"Countries": "PL, UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 037 + 038 O/Š",
+		"Name": "",
+		"Itinerary": "Uzhhorod – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=218\">View details</a>",
+		"Route": "037: Uzhhorod - Mukacheve - Stryj - Lviv - Ternopil - Khmelnytskyi - Zhmerynka - Odesa Holovna<br><br>038 O/Š: Odesa Holovna - Zhmerynka - Khmelnytskyi - Ternopil - Lviv - Stryj - Mukacheve - Uzhhorod",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 038 K + 038 P",
+		"Name": "",
+		"Itinerary": "Kyiv – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=189\">View details</a>",
+		"Route": "038 K: Kyiv Pasazhyrskyi - Dnipro Holovny - Zaporizhzhia 1<br><br>038 P: Zaporizhzhia 1 - Dnipro Holovny - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 041 + 042",
+		"Name": "",
+		"Itinerary": "Dnipro – Truskavets",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=149\">View details</a>",
+		"Route": "041: Dnipro Holovny - Oleksandriia - Vinnytsia - Ternopil - Lviv - Truskavets<br><br>042: Truskavets - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Oleksandriia - Dnipro Holovny",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 043 L + 043 Š",
+		"Name": "",
+		"Itinerary": "Ivano-Frankivsk – Cherkasy",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=178\">View details</a>",
+		"Route": "043 L: Ivano-Frankivsk - Kalush - Stryj - Lviv - Dubno - Korosten - Kyiv Pasazhyrskyi - Cherkasy<br><br>043 Š: Cherkasy - Kyiv Pasazhyrskyi - Korosten - Dubno - Lviv - Stryj - Kalush - Ivano-Frankivsk",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 049 + 050",
+		"Name": "",
+		"Itinerary": "Kyiv – Truskavets",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=185\">View details</a>",
+		"Route": "049: Kyiv Pasazhyrskyi - Fastiv - Lviv - Truskavets<br><br>050: Truskavets - Lviv - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 051 + 052 K",
+		"Name": "",
+		"Itinerary": "Kyiv – Przemyśl",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=140\">View details</a>",
+		"Route": "051: Kyiv Pasazhyrskyi - Lviv - Przemyśl Gł.<br><br>052 K: Przemyśl Gł. - Lviv - Kyiv Pasazhyrskyi",
+		"Countries": "PL, UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 052 P/053 + 052 Š/054",
+		"Name": "",
+		"Itinerary": "Dnipro – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=207\">View details</a>",
+		"Route": "052 P/053: Dnipro Holovny - Oleksandriia - Kropyvnytskyi - Podilsk - Odesa Holovna<br><br>052 Š/054: Odesa Holovna - Podilsk - Kropyvnytskyi - Oleksandriia - Dnipro Holovny",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 055 + 056",
+		"Name": "",
+		"Itinerary": "Kyiv – Rakhiv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=198\">View details</a>",
+		"Route": "055: Kyiv Pasazhyrskyi - Fastiv - Vinnytsia - Khmelnytskyi - Ternopil - Lviv - Ivano-Frankivsk - Vorokhta - Yasinia - Rakhiv<br><br>056: Rakhiv - Yasinia - Vorokhta - Ivano-Frankivsk - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 059 K + 060 L",
+		"Name": "",
+		"Itinerary": "Kyiv – Chop",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=190\">View details</a>",
+		"Route": "059 K: Kyiv Pasazhyrskyi - Fastiv - Vinnytsia - Lviv - Sambir - Uzhhorod - Chop<br><br>060 L: Chop - Uzhhorod - Sambir - Lviv - Vinnytsia - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 063 + 064",
+		"Name": "",
+		"Itinerary": "Kharkiv – Lviv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=161\">View details</a>",
+		"Route": "063: Kharkiv - Poltava - Kyiv Pasazhyrskyi - Lviv<br><br>064: Lviv - Kyiv Pasazhyrskyi - Lubny - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 065 K + 065 Š",
+		"Name": "",
+		"Itinerary": "Kharkiv – Uman",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=158\">View details</a>",
+		"Route": "065 K: Kharkiv - Dnipro Holovny - Oleksandriia - Uman<br><br>065 Š: Uman - Oleksandriia - Dnipro Holovny - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 067 + 068",
+		"Name": "",
+		"Itinerary": "Kyiv – Warszawa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=181\">View details</a>",
+		"Route": "067: Kyiv Pasazhyrskyi - Kovel - Chelm - Lublin - Warszawa Wschodnia<br><br>068: Warszawa Wschodnia - Lublin - Chelm - Kovel - Kyiv Pasazhyrskyi",
+		"Countries": "PL, UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 073 + 074",
+		"Name": "",
+		"Itinerary": "Kharkiv – Przemyśl",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=141\">View details</a>",
+		"Route": "073: Kharkiv - Poltava - Myrhorod - Kyiv Pasazhyrskyi - Fastiv - Vinnytsia - Ternopil - Lviv - Przemyśl Gł.<br><br>074: Przemyśl Gł. - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Kyiv Pasazhyrskyi - Myrhorod - Poltava - Kharkiv",
+		"Countries": "PL, UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 075 + 076",
+		"Name": "",
+		"Itinerary": "Kyiv – Kryvyi Rih",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=172\">View details</a>",
+		"Route": "075: Kyiv Pasazhyrskyi - Oleksandriia - Kryvyi Rih<br><br>076: Kryvyi Rih - Oleksandriia - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 078 L + 078 Š",
+		"Name": "",
+		"Itinerary": "Kovel – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=222\">View details</a>",
+		"Route": "078 L: Kovel - Lutsk - Rivne - Vinnytsia - Podilsk - Odesa Holovna<br><br>078 Š: Odesa Holovna - Podilsk - Vinnytsia - Rivne - Lutsk - Kovel",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 079 + 080",
+		"Name": "",
+		"Itinerary": "Dnipro – Lviv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=170\">View details</a>",
+		"Route": "079: Dnipro Holovny - Oleksandriia - Kyiv Pasazhyrskyi - Lviv<br><br>080: Lviv - Kyiv Pasazhyrskyi - Oleksandriia - Dnipro Holovny",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 081 K + 081 L",
+		"Name": "",
+		"Itinerary": "Kyiv – Uzhhorod",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=227\">View details</a>",
+		"Route": "081 K: Kyiv Pasazhyrskyi - Vinnytsia - Khmelnytskyi - Ternopil - Lviv - Stryj - Mukacheve - Chop - Uzhhorod<br><br>081 L: Uzhhorod - Chop - Mukacheve - Stryj - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 086 L + 086 P",
+		"Name": "",
+		"Itinerary": "Lviv – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=211\">View details</a>",
+		"Route": "086 L: Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Oleksandriia - Dnipro Holovny - Zaporizhzhia 1<br><br>086 P: Zaporizhzhia 1 - Dnipro Holovny - Oleksandriia - Vinnytsia - Khmelnytskyi - Ternopil - Lviv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 088 L + 088 P",
+		"Name": "",
+		"Itinerary": "Kovel – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=209\">View details</a>",
+		"Route": "088 L: Kovel - Lutsk - Rivne - Oleksandriia - Dnipro Holovny - Zaporizhzhia 1<br><br>088 P: Zaporizhzhia 1 - Dnipro Holovny - Oleksandriia - Rivne - Lutsk - Kovel",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 091 + 092",
+		"Name": "",
+		"Itinerary": "Kyiv – Lviv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=197\">View details</a>",
+		"Route": "091: Kyiv Pasazhyrskyi - Kyiv Sviatoshyn - Lviv Pidzamche - Lviv<br><br>092: Lviv - Lviv Pidzamche - Kyiv Sviatoshyn - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 093 + 094",
+		"Name": "",
+		"Itinerary": "Kharkiv – Chelm",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=208\">View details</a>",
+		"Route": "093: Kharkiv - Poltava - Myrhorod - Lubny - Kyiv Pasazhyrskyi - Rivne - Kovel - Chelm<br><br>094: Chelm - Kovel - Rivne - Kyiv Pasazhyrskyi - Lubny - Myrhorod - Poltava - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 095 + 096",
+		"Name": "",
+		"Itinerary": "Kyiv – Rakhiv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=199\">View details</a>",
+		"Route": "095: Kyiv Pasazhyrskyi - Lviv - Ivano-Frankivsk - Vorokhta - Yasinia - Rakhiv<br><br>096: Rakhiv - Yasinia - Vorokhta - Ivano-Frankivsk - Lviv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 097 + 098",
+		"Name": "",
+		"Itinerary": "Kyiv – Kovel",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=182\">View details</a>",
+		"Route": "097: Kyiv Pasazhyrskyi - Korosten - Rivne - Lutsk - Kovel<br><br>098: Kovel - Lutsk - Rivne - Korosten - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 105 + 106",
+		"Name": "",
+		"Itinerary": "Kyiv – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=173\">View details</a>",
+		"Route": "105: Kyiv Pasazhyrskyi - Fastiv - Vinnytsia - Zhmerynka - Podilsk - Odesa Holovna<br><br>106: Odesa Holovna - Podilsk - Zhmerynka - Vinnytsia - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 109 + 110",
+		"Name": "",
+		"Itinerary": "Kherson – Lviv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=213\">View details</a>",
+		"Route": "109: Kherson - Mykolaiv - Vinnytsia - Zhmerynka - Khmelnytskyi - Ternopil - Lviv<br><br>110: Lviv - Ternopil - Khmelnytskyi - Zhmerynka - Vinnytsia - Mykolaiv - Kherson",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 112 L + 112 P",
+		"Name": "",
+		"Itinerary": "Lviv – Izyum",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=151\">View details</a>",
+		"Route": "112 L: Lviv - Kyiv Pasazhyrskyi - Lubny - Myrhorod - Poltava - Kharkiv - Izyum<br><br>112 P: Izyum - Kharkiv - Poltava - Myrhorod - Lubny - Kyiv Pasazhyrskyi - Lviv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 113 + 114",
+		"Name": "",
+		"Itinerary": "Kharkiv – Lviv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=157\">View details</a>",
+		"Route": "113: Kharkiv - Sumy - Konotop - Kyiv Pasazhyrskyi - Fastiv - Korosten - Kovel - Chervonohrad - Lviv<br><br>114: Lviv - Chervonohrad - Kovel - Korosten - Fastiv - Kyiv Pasazhyrskyi - Konotop - Sumy - Kharkiv",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 121 + 122",
+		"Name": "",
+		"Itinerary": "Kherson – Kyiv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=200\">View details</a>",
+		"Route": "121: Kherson - Mykolaiv - Kyiv Pasazhyrskyi<br><br>122: Kyiv Pasazhyrskyi - Mykolaiv - Kherson",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 128 L + 128 P",
+		"Name": "",
+		"Itinerary": "Lviv – Zaporizhzhia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=212\">View details</a>",
+		"Route": "128 L: Lviv - Lviv Pidzamche - Ternopil - Khmelnytskyi - Zhmerynka - Oleksandriia - Kryvyi Rih - Dnipro Holovny - Zaporizhzhia 1<br><br>128 P: Zaporizhzhia 1 - Dnipro Holovny - Kryvyi Rih - Oleksandriia - Zhmerynka - Khmelnytskyi - Ternopil - Lviv Pidzamche - Lviv Pidzamche",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 136 L + 136 Š",
+		"Name": "",
+		"Itinerary": "Chernivtsi – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=219\">View details</a>",
+		"Route": "136 L: Chernivtsi - Ivano-Frankivsk - Lviv - Ternopil - Khmelnytskyi - Zhmerynka - Podilsk - Odesa Holovna<br><br>136 Š: Odesa Holovna - Podilsk - Zhmerynka - Khmelnytskyi - Ternopil - Lviv - Ivano-Frankivsk - Chernivtsi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 139 + 140",
+		"Name": "",
+		"Itinerary": "Kyiv – Kamianets-Podilskyi",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=180\">View details</a>",
+		"Route": "139: Kyiv Pasazhyrskyi - Fastiv - Kamianets-Podilskyi<br><br>140: Kamianets-Podilskyi - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 141 + 142",
+		"Name": "",
+		"Itinerary": "Ivano-Frankivsk – Chernihiv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=166\">View details</a>",
+		"Route": "141: Ivano-Frankivsk - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Kyiv Pasazhyrskyi - Chernihiv<br><br>142: Chernihiv - Kyiv Pasazhyrskyi - Vinnytsia - Khmelnytskyi - Ternopil - Lviv - Ivano-Frankivsk",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 143 + 144",
+		"Name": "",
+		"Itinerary": "Sumy – Rakhiv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=177\">View details</a>",
+		"Route": "143: Sumy - Konotop - Kyiv Pasazhyrskyi - Vinnytsia - Khmelnytskyi - Ternopil - Lviv - Ivano-Frankivsk - Yasinia - Rakhiv<br><br>144: Rakhiv - Yasinia - Ivano-Frankivsk - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Kyiv Pasazhyrskyi - Konotop - Sumy",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 149 + 150",
+		"Name": "",
+		"Itinerary": "Poltava – Chernivtsi",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=167\">View details</a>",
+		"Route": "149: Poltava - Myrhorod - Lubny - Kyiv Pasazhyrskyi - Lviv - Ivano-Frankivsk - Chernivtsi<br><br>150: Chernivtsi - Ivano-Frankivsk - Lviv - Kyiv Pasazhyrskyi - Lubny - Myrhorod - Poltava",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 181 L + 181 P",
+		"Name": "",
+		"Itinerary": "Ivano-Frankivsk – Dnipro",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=175\">View details</a>",
+		"Route": "181 L: Ivano-Frankivsk - Lviv - Ternopil - Khmelnytskyi - Vinnytsia - Oleksandriia - Dnipro Holovny<br><br>181 P: Dnipro Holovny - Oleksandriia - Vinnytsia - Khmelnytskyi - Ternopil - Lviv - Ivano-Frankivsk",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 192 P + 192 Š",
+		"Name": "",
+		"Itinerary": "Kramatorsk – Odesa",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=210\">View details</a>",
+		"Route": "192 P: Kramatorsk - Sloviansk - Dnipro Holovny - Oleksandriia - Podilsk - Odesa Holovna<br><br>192 Š: Odesa Holovna - Podilsk - Oleksandriia - Dnipro Holovny - Sloviansk - Kramatorsk",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 194 L + 194 P",
+		"Name": "",
+		"Itinerary": "Yasinia – Kryvyi Rih",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=201\">View details</a>",
+		"Route": "194 L: Yasinia - Vorokhta - Ivano-Frankivsk - Lviv - Kyiv Pasazhyrskyi - Oleksandriia - Kryvyi Rih<br><br>194 P: Kryvyi Rih - Oleksandriia - Kyiv Pasazhyrskyi - Lviv - Ivano-Frankivsk - Vorokhta - Yasinia",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ 357 + 358",
+		"Name": "",
+		"Itinerary": "Kyiv – Yasinia",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=196\">View details</a>",
+		"Route": "357: Kyiv Pasazhyrskyi - Fastiv - Vinnytsia - Khmelnytskyi - Ternopil - Vorokhta - Yasinia<br><br>358: Yasinia - Vorokhta - Ternopil - Khmelnytskyi - Vinnytsia - Fastiv - Kyiv Pasazhyrskyi",
+		"Countries": "UA",
+		"Operator": "UZ",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ/CFM 351 K + 351 L",
+		"Name": "",
+		"Itinerary": "Kyiv – Chişinău",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=195\">View details</a>",
+		"Route": "351 K: Kyiv Pasazhyrskyi - Vinnytsia - Zhmerynka - Ungheni - Chişinău<br><br>351 L: Chişinău - Ungheni - Zhmerynka - Vinnytsia - Kyiv Pasazhyrskyi",
+		"Countries": "UA, MD",
+		"Operator": "UZ, CFM",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "UZ/ÖBB 40149 + 40749",
+		"Name": "",
+		"Itinerary": "Wien – Kyiv",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=60\">View details</a>",
+		"Route": "40149: Wien Hbf - Hegyeshalom - Győr - Budapest Kelenföld - Budapest Keleti - Szolnok - Debrecen - Nyíregyháza - Chop - Mukacheve - Stryj - Lviv - Kyiv Pasazhyrskyi<br><br>40749: Kyiv Pasazhyrskyi - Lviv - Stryj - Mukacheve - Chop - Nyíregyháza - Debrecen - Szolnok - Budapest Keleti - Budapest Kelenföld - Győr - Hegyeshalom - Wien Hbf",
+		"Countries": "AT, HU, UA",
+		"Operator": "UZ, ÖBB",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://booking.uz.gov.ua/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "VR IC 265 + IC 274",
+		"Name": "",
+		"Itinerary": "Helsinki – Kemijärvi",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=72\">View details</a>",
+		"Route": "IC 265: Helsinki / Helsingfors - Tampere - Oulu - Rovaniemi - Kemijärvi<br><br>IC 274: Kemijärvi - Rovaniemi - Oulu - Tampere - Helsinki / Helsingfors",
+		"Countries": "FI",
+		"Operator": "VR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vr.fi/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "VR IC 266 (H) + IC 273",
+		"Name": "",
+		"Itinerary": "Rovaniemi – Helsinki",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=91\">View details</a>",
+		"Route": "IC 266 (H): Rovaniemi - Oulu - Helsinki / Helsingfors<br><br>IC 273: Helsinki / Helsingfors - Oulu - Rovaniemi",
+		"Countries": "FI",
+		"Operator": "VR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vr.fi/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "VR IC 266 (T) + IC 933",
+		"Name": "",
+		"Itinerary": "Rovaniemi – Turku",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=90\">View details</a>",
+		"Route": "IC 266 (T): Rovaniemi - Oulu - Tampere - Turku / Åbo<br><br>IC 933: Turku / Åbo - Tampere - Oulu - Rovaniemi",
+		"Countries": "FI",
+		"Operator": "VR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vr.fi/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "VR P 269 + P 276",
+		"Name": "",
+		"Itinerary": "Helsinki – Kolari",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=98\">View details</a>",
+		"Route": "P 269: Helsinki / Helsingfors - Tampere - Oulu - Kolari<br><br>P 276: Kolari - Oulu - Tampere - Helsinki / Helsingfors",
+		"Countries": "FI",
+		"Operator": "VR",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vr.fi/en/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "VY 605 + 606",
+		"Name": "F4",
+		"Itinerary": "Oslo – Bergen",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=69\">View details</a>",
+		"Route": "605: Oslo S - Drammen - Bergen<br><br>606: Bergen - Drammen - Oslo S",
+		"Countries": "NO",
+		"Operator": "VY",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.vy.se/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ŽS/ŽPCG B 432 + B 433",
+		"Name": "",
+		"Itinerary": "Beograd – Bar",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=130\">View details</a>",
+		"Route": "B 432: Beograd Zemun - Beograd Centar - Valjevo - Užice - Podgorica - Bar<br><br>B 433: Bar - Podgorica - Valjevo - Beograd Centar - Beograd Zemun",
+		"Countries": "RS, ME",
+		"Operator": "ŽS, ŽPCG",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"http://www.zcg-prevoz.me/search\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ZSSK EN 1152 + EN 1153",
+		"Name": "",
+		"Itinerary": "Split – Bratislava",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=115\">View details</a>",
+		"Route": "EN 1152: Split - Knin - Zagreb Gl. K. - Maribor - Graz Hbf - Bruck an der Mur - Wiener Neustadt Hbf - Wien Meidling - Wien Hbf - Wien Hbf (Autoreisezuganlage) - Bratislava Petržalka - Bratislava Nové Mesto<br><br>EN 1153: Bratislava Nové Mesto - Bratislava Petržalka - Wien Hbf - Wien Meidling - Wiener Neustadt Hbf - Bruck an der Mur - Graz Hbf - Maribor - Zagreb Gl. K. - Knin - Split",
+		"Countries": "SK, AT, SI, HR",
+		"Operator": "ZSSK",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.zssk.sk/en/night-trains/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ZSSK EN 442 + EN 443",
+		"Name": "",
+		"Itinerary": "Michalovce – Praha",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=6\">View details</a>",
+		"Route": "EN 442: Michalovce - Košice - Poprad Tatry - Olomouc hl.n. - Pardubice hl.n. - Praha hl.n.<br><br>EN 443: Praha hl.n. - Pardubice hl.n. - Olomouc hl.n. - Poprad Tatry - Košice - Michalovce",
+		"Countries": "SK, CZ",
+		"Operator": "ZSSK",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.zssk.sk/en/night-trains/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ZSSK R 614 + R 615",
+		"Name": "Zemplín",
+		"Itinerary": "Strážske – Bratislava",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=123\">View details</a>",
+		"Route": "R 614: Strážske - Košice - Poprad Tatry - Trnava - Bratislava hl.st.<br><br>R 615: Bratislava hl.st. - Trnava - Košice - Strážske",
+		"Countries": "SK",
+		"Operator": "ZSSK",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.zssk.sk/en/night-trains/\">Book tickets</a>"
+	},
+	{
+		"Night Train": "ZSSK R800 / EC282 + EC 283 / R801",
+		"Name": "Metropolitan / Poľana",
+		"Itinerary": "Košice – Praha",
+		"More details": "<a class=\"nt_btn nt_rounded_btn\" style=\"color: white;background-color: #008f39;border:none\" href=\"https://back-on-track.eu/night-train-database/?route_id=8\">View details</a>",
+		"Route": "R800 / EC282: Košice - Zvolen - Bratislava hl.st. - Nové Zámky - Bratislava hl.st. - Břeclav - Brno hl.n. - Pardubice hl.n. - Praha hl.n.<br><br>EC 283 / R801: Praha hl.n. - Pardubice hl.n. - Brno hl.n. - Břeclav - Bratislava hl.st. - Nové Zámky - Zvolen - Košice",
+		"Countries": "SK, CZ",
+		"Operator": "ZSSK",
+		"Tickets": "<a target=\"_blank\"  class=\"nt_btn nt_rounded_btn\" style=\"color: rgba(255, 255, 255, 1);background-color: rgba(0, 143, 57, 1);\" rel=\"\" href=\"https://www.zssk.sk/en/night-trains/\">Book tickets</a>"
+	}
+]
