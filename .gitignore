@@ -1,14 +1,5 @@
-database/gtfs-data/*
-database/data/*
-database/_data
-gtfs-data.zip
-# gtfs_database.backup
-# standard python gitignore
-*.pyc
-__pycache__/
-venv/
-*.egg-info/
-dist/
-build/
-
+node_modules
+dist
+public/ONS/
 .DS_Store
+android
