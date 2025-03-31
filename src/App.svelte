@@ -107,8 +107,7 @@
         becomes more important
       </p>
       <h3>
-        Whats with the fucked up long spikey lines? Do I really need to go to
-        south america to get from Tarbes – Paris?
+        Do I really need to go to south america to get from Tarbes to Paris?
       </h3>
       <p>Some coordinates didn't map properly, they'll be sorted out soon.</p>
       <h3>I think this looks like shit</h3>
@@ -121,9 +120,6 @@
   zoom={3}
   class="map"
   standardControls
-  
-  
-  
   style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
 >
   {#each db as route}
@@ -156,7 +152,7 @@
       </LineLayer>
     </GeoJSON>
   {/each}
-  <ZoomRange minzoom={7 + (selectedStation ? -3 : 0)} enforce>
+  <ZoomRange minzoom={7 + (selectedStation ? -7 : 0)} enforce>
     {#each Object.entries(locations) as [k, { name, lngLat }]}
       {#if lngLat}
         {#if !selectedRoute || (selectedRoute && db.filter((r) => r.Itinerary == selectedRoute && r.stations.includes(name)).length > 0) || (selectedStation && db.filter((r) => r.stations.includes(selectedStation) && r.stations.includes(name))) > 0}

@@ -8,8 +8,7 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"deploy": "pnpm run build;gh-pages -d dist",
-		"update": "pnpm version patch -f;pnpm run build;npx cap sync",
-		"predeploy": "npm version patch -m \"Bump version to %s\""
+		"update": "pnpm version patch -f;pnpm run build;npx cap sync"
 	},
 	"devDependencies": {
 		"@sveltejs/vite-plugin-svelte": "^3.1.2",
