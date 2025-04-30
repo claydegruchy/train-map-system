@@ -104,14 +104,12 @@
       <p>
         I found the map layout of back-on-track to be hard to navigate, as the
         london tube style of train map doesn't scale as geographic relativity
-        becomes more important
+        becomes more important, so I decided to see how quickly I could make a
+        passable replacement.
       </p>
-      <h3>
-        Do I really need to go to south america to get from Tarbes to Paris?
-      </h3>
-      <p>Some coordinates didn't map properly, they'll be sorted out soon.</p>
+
       <h3>I think this looks like shit</h3>
-      <p>well thats just your opinion, man</p>
+      <p>this only took an hour so thats just like your opinion, man</p>
     </div>
   </Dialog>
 </nav>
